@@ -1,0 +1,928 @@
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="一般社団法人日本レコード協会,日本レコード協会,Recording Industry Association of Japan,RIAJ,著作権,ゴールドディスク,CD,レコード,音楽配信" />
+<meta name="description" content="CD・レコードの普及促進、著作権意識の啓蒙活動、ゴールドディスク大賞を実施する日本レコード協会（RIAJ）のオフィシャルサイト。CDやレコードの生産実績・売上実績の統計データ、音楽に関する調査・レポートなどを掲載。" />
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
+<link rel="shortcut icon" href="/image/open/favicon.ico" >
+<link rel="apple-touch-icon" href="/image/smartphone/jpc_ios_icon.png" />
+<link rel="stylesheet" href="/f/data/css/print.css" type="text/css" media="print" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="Sat, 26 Jul 1997 05:00:00 GMT" />
+
+<title>一般社団法人 日本レコード協会</title>
+
+
+
+<link href="/riaj/css/reset.css?2021072701" rel="stylesheet" type="text/css" />
+<!-- 共通 -->
+<link href="/riaj/css/style.css?2021072701" rel="stylesheet" type="text/css" />
+<link href="/riaj/css/special.css?2021072701" rel="stylesheet" type="text/css" />
+<!-- 幅641px 以上 -->
+<link rel="stylesheet" href="/riaj/css/style-pc.css?2021072701" type="text/css" />
+<!-- 幅640px 以下 -->
+<link rel="stylesheet" href="/riaj/css/style-sp.css?2021072701" type="text/css" />
+<link rel="stylesheet" href="/riaj/css/custom-theme.css?2021072701" media="(max-width:640px)">
+<script type="text/javascript" src="/riaj/js/jquery/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="/riaj/js/jquery/jquery.easing.min.js"></script>
+<!-- トップワイドスライダー用 -->
+<link href="/riaj/js/sliderfullwide/css/sliderfullwide-style.css" rel="stylesheet" type="text/css" />
+<script src="/riaj/js/sliderfullwide/sliderfullwide.js"></script>
+<!-- トップワイドスライダー用 -->
+<!-- thumb スライダー -->
+<script type="text/javascript" src="/riaj/js/caroufredsel/jquery.carouFredSel-6.2.1.js"></script>
+<script type="text/javascript" src="/riaj/js/caroufredsel/script.js"></script>
+<link href="/riaj/js/caroufredsel/carouFredSel-style.css" rel="stylesheet" type="text/css" />
+<!-- thumb スライダー -->
+<!-- 幅640px 以下 バナースライダー -->
+<script type="text/javascript" src="/riaj/js/bxslider/jquery.bxslider.js"></script>
+<!-- 幅640px 以下 バナースライダー -->
+<script type="text/javascript" src="/riaj/js/font_size.js"></script>
+<script type="text/javascript" src="/riaj/js/custom-scripting.js"></script>
+<script type="text/javascript" src="/riaj/js/footerFixed.js"></script>
+<script type="text/javascript" src="/riaj/js/jquery.balloon.js"></script>
+<script type="text/javascript">
+<!--
+
+// 640px 以下用 tab
+$(function() {
+    $(".tab-switcher-block li").click(function() {
+        var num = $(".tab-switcher-block li").index(this);
+        $(".tab-content-contents-wrapper").addClass('tab-contents-disnon');
+        $(".tab-content-contents-wrapper").eq(num).removeClass('tab-contents-disnon');
+        $(".tab-switcher-block li").removeClass('tab-switcher-selected');
+        $(this).addClass('tab-switcher-selected');
+    });
+});
+// ドロップダウンメニュー表示　幅640px以下用
+$( function() {
+     $('.drop-down-menu-btn').click( function() {
+		// ドロップダウンメニューブロック高さ設定
+		var $doc_h = $(document).height();
+		var $header_h = $('.header-wrapper').height();
+		// ドリップダウンメニュー表示・非表示
+		$('.drop-down-menu-wrapper').slideToggle( 'fast' );
+		var $nav_h = $(".drop-down-link-block").height();
+		var $blank_h = $doc_h - $header_h - $nav_h -10;
+		$('.drop-down-menu-blank').css("height", $blank_h );
+     }); 
+});
+// 幅640px以下用第2バナースライダー
+$(document).ready(function(){
+	$('.bxslider').bxSlider({
+		auto: true,
+		pager: false
+    });
+});
+// ページトップへボタン
+// ページトップへボタン画像差換え
+$(function(){
+     $('.page-top a img').hover(function(){
+        $(this).attr('src', $(this).attr('src').replace('-off', '-on'));
+          }, function(){
+             if (!$(this).hasClass('currentPage')) {
+             $(this).attr('src', $(this).attr('src').replace('-on', '-off'));
+        }
+   });
+});
+// ページトップへスクロール
+$(function() {
+    var topBtn = $('.page-top');    
+    topBtn.hide();
+    //スクロールが100に達したらボタン表示
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 100) {
+            topBtn.fadeIn();
+        } else {
+            topBtn.fadeOut();
+        }
+    });
+    //スクロールしてトップ
+    topBtn.click(function () {
+        $('body,html').animate({
+            scrollTop: 0
+        }, 500);
+        return false;
+    });
+});
+// ドロップダウンメニュー
+$(function(){
+    $('.gnav-block ul li').hover(function(){
+        $(">ul:not(:animated)", this).slideDown('fast');
+        $(this).children('a').css('color','#ffffff');
+    }, function(){
+        $(">ul",this).slideUp('fast');
+        $(this).children('a').css('color','#000000');
+    });
+});
+// プレスリリース・新着情報高さ調整
+$(window).on('load resize',function() {
+	var pr_height = $('.top-press-release-tbl').height();
+	var en_height = $('.en-top-about-riaj').height();
+	var ns_height = $('.top-news-tbl').height();
+	var mx_height = 0;
+	if(pr_height!=null) {
+		if( pr_height >= ns_height) {
+			mx_height = pr_height;
+		}
+		else {
+			mx_height = ns_height;
+		}
+		$('.top-press-release-tbl').css('height', mx_height);
+		$('.top-news-tbl').css('height', mx_height);
+	}
+	else {
+		if( en_height >= ns_height) {
+			mx_height = en_height;
+		}
+		else {
+			mx_height = ns_height-20;
+		}
+		$('.en-top-about-riaj').css('height', mx_height);
+		$('.top-news-tbl').css('height', mx_height+20);
+	}
+	/* ウィンドリサイズ 640px以下の処理 */
+	if($(window).width()<640) {
+		$('.top-press-release-tbl').css('height', '');
+		$('.en-top-about-riaj').css('height', '');
+		$('.top-news-tbl').css('height', '');
+	}
+});
+
+$(function(){
+   // #で始まるアンカーをクリックした場合に処理
+   $('a[href^=#]').click(function() {
+      // スクロールの速度
+      var speed = 800;
+      // アンカーの値取得
+      var href= $(this).attr("href");
+      // 移動先を取得
+      var target = $(href == "#" || href == "" ? 'html' : href);
+      // 移動先を数値で取得
+      var position = target.offset().top;
+      // スムーススクロール
+      $('body,html').animate({scrollTop:position}, speed, 'swing');
+      return false;
+   });
+});
+
+<!-- 画像入れ替え -->
+$(function(){
+     $('a img').hover(function(){
+        $(this).attr('src', $(this).attr('src').replace('-off', '-on'));
+          }, function(){
+             if (!$(this).hasClass('currentPage')) {
+             $(this).attr('src', $(this).attr('src').replace('-on', '-off'));
+        }
+   });
+});
+//-->
+</script>
+<script type="text/javascript">
+//<![CDATA[
+/**
+ * 初期化を行う。
+ */
+function load() {
+	fontSizeReader(); // フォントサイズ変更用。
+}
+
+window.onload = load;
+//]]>
+</script>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script type="text/javascript" src="//media.line.me/js/line-button.js?v=20140411" ></script>
+</head>
+<body>
+<div class="header-wrapper">
+  <p class="page-top"><a href="#" onclick="colorset()"><img src="/image/open/page-top-off.png" /></a></p>
+  <div class="header-block">
+    <div class="logo-wrapper">
+      <p>
+      
+      <a href="/"><img src="/image/open/header-logo-sp.png" class="pc-disnon" /><img src="/image/open/header-logo-pc.png" class="sp-disnon" /></a>
+      
+      
+      </p>
+    </div>
+    <!-- /.logo-wrapper -->
+    <div id="switch-text-block" class="sp-disnon">
+      <div class="gsc-block">
+        <script async src="https://cse.google.com/cse.js?cx=383f14ccdf41bf67a"></script>
+        <div class="gcse-search"></div>
+      </div>
+      <div id="fontSizeSwitch">
+        <ul id="fontSizeMenu">
+          <li class="" id="fontSizeSj"><a onclick="fontSizeChanger(75);" href="#">小</a></li>
+          <li class="current" id="fontSizeMj"><a onclick="fontSizeReset();" href="#">中</a></li>
+          <li class="" id="fontSizeLj"><a onclick="fontSizeChanger(110);" href="#">大</a></li>
+        </ul>
+      </div>
+      <!-- /#fontSizeSwitch -->
+      <div id="switch-lang-block"><a href="/?requestLocale=ja" target="_self"><img src="/image/open/btn-lang-jp_on.jpg" /></a><a href="/e/?requestLocale=en" target="_self"><img src="/image/open/btn-lang-en_off.jpg" /></a></div>
+      <!-- /#switch-lang-block -->
+      <div class="sp-disnon"></div>
+    </div>
+    <!-- /#switch-text-block -->
+    
+    <!-- サイト内検索　幅641px以上用 -->
+    <!-- /.seach-wrapper -->
+    <div class="clear-float sp-disnon"></div>
+    <!-- メニュー　幅641px以上用 -->
+    <div class="gnav-wrapper sp-disnon">
+      <div class="gnav-block">
+        <ul>
+          <li><a href="/f/data/index.html">統計情報</a>
+            <ul class="gnav-child">
+              <li><a href="/f/data/index.html">生産実績</a>
+                <ul class="gnav-child-g1">
+                  <li><a href="/f/data/monthly.html">生産実績&nbsp;月次数値</a></li>
+                  <li><a href="/f/data/online.html">音楽配信売上 四半期数値</a></li>
+                  <li><a href="/f/data/annual/index.html">年次推移</a></li>
+                </ul>
+              </li>
+              
+              <li>認定
+                <ul class="gnav-child-g1">
+                  <li><a href="/f/data/cert/gd.html">ゴールドディスク認定</a></li>
+                  <li><a href="/f/data/cert/hs.html">ダウンロード認定</a></li>
+                  <li><a href="/f/data/cert/st.html">ストリーミング認定</a></li>
+                  <li><a href="/f/data/others/mil.html">ミリオン認定数推移</a></li>
+                </ul>
+              </li>
+              
+              <li>その他
+                <ul class="gnav-child-g1">
+                  <li><a href="/f/data/others/sp.html">新譜数推移</a></li>
+                  <li><a href="/data/others/catalog_a.html" target="_self">カタログ数推移</a></li>
+                  
+                  <li><a href="/data/others/debut.html" target="_self">デビュー歌手数推移</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          
+          <li><a href="/f/report/">調査・レポート</a>
+            <ul class="gnav-child">
+              <li><a href="/f/report/mediauser/">音楽メディアユーザー実態調査</a></li>
+              <li><a href="/f/report/rental/">CDレンタル店調査</a></li>
+              <li><a href="/f/report/app/">違法音楽アプリ利用実態調査</a></li>
+              <li><a href="/f/report/web/">違法配信に関する利用実態調査</a></li>
+              <li><a href="/f/report/mobile/">違法な携帯電話向け音楽配信利用実態調査</a></li>
+              <li><a href="/f/report/file_exc/">ファイル交換ソフト利用調査</a></li>
+              <li><a href="/f/report/r_inv/">CD-R等個人録音調査</a></li>
+              <li><a href="/f/report/illegal/">不法録音レポート</a></li>
+            </ul>
+          </li>
+          
+          <li><a href="/f/issue/">発行物</a>
+            
+            <ul class="gnav-child">
+              <li><a href="/issue/record/">機関誌「The Record」</a></li>
+              <li><a href="/f/issue/industry/">日本のレコード産業</a></li>
+              <li><a href="/f/issue/ris/">日本レコード協会規格「RIS」</a></li>
+              <li><a href="/f/issue/anniversary/">記念誌</a></li>
+            </ul>
+            
+          </li>
+          <li><a href="/f/leg/">各種制度のご紹介</a>
+            <ul class="gnav-child">
+              
+              
+              <li><a href="/f/leg/copyright/">音楽と著作権</a>
+                <ul class="gnav-child-g1-slide-L">
+                  <li><a href="/f/leg/copyright/">音楽と著作権</a></li>
+                  <li><a href="/f/leg/rental/">CDレンタル</a></li>
+                  <li><a href="/f/leg/saihan/">再販制度</a></li>
+                  <li><a href="/f/return/">音楽レコードの還流防止措置</a></li>
+                  <li><a href="/f/leg/illegal/">不法録音物対策委員会</a></li>
+                  <li><a href="/f/leg/sample/">CDサンプル盤</a></li>
+                </ul>
+              </li>
+              <li>音源を利用したい方へ
+                <ul class="gnav-child-g1-slide-L">
+                  <li><a href="/f/leg/net/">放送番組のインターネット配信</a></li>
+                  <li><a href="/f/leg/web/index.html">放送番組以外のライブ配信等</a></li>
+                  <li><a href="/f/leg/rec_license/">バトン等競技会、NHK杯放送コンテスト</a></li>
+                  <li><a href="/f/leg/bridal/">結婚披露宴等</a></li>
+                  <li><a href="/f/leg/public/">非営利教育機関によるインターネット上の使用</a></li>
+                  <li><a href="/f/leg/internet_license/">インターネット上のアップロードコンテンツ（動画・静止画等）</a></li>
+                  <li><a href="/leg/list.html">音源利用許諾窓口一覧</a></li>
+                </ul>
+              </li>
+              <li>その他
+                <ul class="gnav-child-g1-slide-L">
+                  <li><a href="https://isrc.jmd.ne.jp/" target="_blank">ISRC</a></li>
+                  <li><a href="/f/leg/faq/">発売会社コードFAQ</a></li>
+                  <li><a href="/f/newmusic/">New Music Fridays</a></li>
+                  <li><a href="/f/kitei/">権利管理事業規程類</a></li>
+                  
+                </ul>
+              </li>
+              
+              
+            </ul>
+          </li>
+          
+        </ul>
+      </div>
+      <!-- /.gnav-block -->
+    </div>
+    <!-- /.gnav-wrapper -->
+    <!-- メニュー　幅641px以上用 -->
+    <!-- メニュー　幅641px以上用 -->
+    <!-- ドロップダウンメニュー　幅640px以下用 -->
+    <div class="drop-down-menu-area pc-disnon">
+      <p class="drop-down-menu-btn"><img src="/image/open/btn-menu.png" /></p>
+      <div class="drop-down-menu-wrapper">
+        <div class="drop-down-menu-block">
+          <div class="gsc-block">
+            <script async src="https://cse.google.com/cse.js?cx=383f14ccdf41bf67a"></script>
+            <div class="gcse-search"></div>
+          </div>
+          
+          <div class="clear-float"></div>
+          <div class="drop-down-link-block">
+            <p><a href="/e/?requestLocale=en" target="_self">English</a></p>
+            <p><a href="/f/about/" target="_self">日本レコード協会について</a></p>
+            <p><a href="/f/links/" target="_self">関連リンク</a></p>
+            <p><a href="/f/policy/" target="_self">リンク・プライバシーポリシー</a></p>
+            <p><a href="/f/sitemap/" target="_self">サイトマップ</a></p>
+            <p><a href="/inquiry/" target="_self">お問い合わせ</a></p>
+            <p class="last-menu"><a href="https://www.riaj.or.jp/notice/" target="_self">会員社音源の違法利用情報通知</a></p>
+          </div>
+          <div class="drop-down-menu-blank">&nbsp;</div>
+        </div>
+        <!-- /.drop-down-menu-block -->
+      </div>
+      <!-- /.drop-down-menu-wrapper -->
+    </div>
+    <!-- /.drop-down-menu-area -->
+    <!-- ドロップダウンメニュー　幅640px以下用 -->
+  </div>
+  <!-- /.header-block -->
+</div>
+<!-- /.header-wrapper -->
+<!-- ヘッダブロック -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="contents-wrapper">
+  <div class="contents-block">
+    <div class="breadcrumb-list-wrapper sp-disnon">
+      <div class="breadcrumb-list-block">
+        <p class="sp-disnon"><a href="/">ホーム</a></p>
+      </div>
+      <!-- /.breadcrumb-list-block -->
+    </div>
+    <!-- /.breadcrumb-list-wrapper -->
+    <div class="contents-main-wrapper">
+      <div class="contents-main-block">
+        <div class="contents-title-wrapper contents-title-bg-blue">
+          <p>ページが見つかりません</p>
+        </div>
+        <div class="contents-data-wrapper">
+          <div class="contents-data-block">
+            <meta http-equiv="refresh" content="5;URL=/"><p>お探しのページは削除されたか、存在しないページです。</p><p>5秒後に<a href="/">ホーム</a>にジャンプします。</p><br><br><p>The page you are looking for does not exist.<br>You will be redirected to <a href="/">the front page</a>.<br>Then you might want to try the search function.</p>
+          </div>
+          <!-- /.contents-data-block -->
+        </div>
+        <!-- /.contents-data-wrapper -->
+      </div>
+      <!-- /.contents-main-block -->
+    </div>
+    <!-- /.contents-main-wrapper -->
+    
+
+
+
+
+    <!-- /.contents-main-wrapper -->
+    <div class="contents-banner-wrapper sp-disnon">
+      <div class="contents-banner-block">
+        <ul class="banner">
+          
+          
+          <li class="banner-txt">
+            
+            
+            <a
+              
+              href="/leg/lmark/"
+              onclick="javascript:_gaq.push(['_trackPageview', '/external/riaj.or.jp/leg/lmark/']);"
+              style="text-decoration:none;"
+            >
+            
+            知っておきたいエルマーク
+            </a>
+          </li>
+          
+          
+          
+          
+          <li class="banner-txt">
+            
+            
+            <a
+              target="_blank"
+              href="https://www.golddisc.jp"
+              onclick="javascript:_gaq.push(['_trackPageview', '/external/www.golddisc.jp']);"
+              style="text-decoration:none;"
+            >
+            
+            日本ゴールドディスク大賞
+            </a>
+          </li>
+          
+          
+          
+          
+          <li class="banner-txt">
+            
+            
+            <a
+              target="_blank"
+              href="https://isrc.jmd.ne.jp/"
+              onclick="javascript:_gaq.push(['_trackPageview', '/external/isrc.jmd.ne.jp']);"
+              style="text-decoration:none;"
+            >
+            
+            ISRC
+            </a>
+          </li>
+          
+          
+          
+          
+          <li class="banner-txt">
+            
+            
+            <a
+              
+              href="/f/leg/makingcd/"
+              onclick="javascript:_gaq.push(['_trackPageview', '/external/riaj.or.jp/f/leg/makingcd/']);"
+              style="text-decoration:none;"
+            >
+            
+            音楽CDができるまで
+            </a>
+          </li>
+          
+          
+          
+          
+          <li class="banner-txt">
+            
+            
+            <a
+              
+              href="/f/leg/chronicle/"
+              onclick="javascript:_gaq.push(['_trackPageview', '/external/riaj.or.jp/f/leg/chronicle/']);"
+              style="text-decoration:none;"
+            >
+            
+            レコード産業の歴史
+            </a>
+          </li>
+          
+          
+          
+          
+          <li class="banner-txt">
+            
+            
+            <a
+              
+              href="/f/leg/cd_info/"
+              onclick="javascript:_gaq.push(['_trackPageview', '/external/riaj.or.jp/f/leg/cd_info/']);"
+              style="text-decoration:none;"
+            >
+            
+            CD再生時の曲名等の誤表示
+            </a>
+          </li>
+          
+          
+          
+          
+          <li class="banner-txt">
+            
+            
+            <a
+              
+              href="http://www.riaj.or.jp/f/education/officeVisit.html"
+              onclick="javascript:_gaq.push(['_trackPageview', '/external/']);"
+              style="text-decoration:none;"
+            >
+            
+            中高生向け学習プログラムのご案内
+            </a>
+          </li>
+          
+          
+          
+          
+          <li class="banner-txt">
+            
+            
+            <a
+              
+              href="https://www.riaj.or.jp/f/leg/bridal/"
+              onclick="javascript:_gaq.push(['_trackPageview', '/external/https://www.riaj.or.jp/f/leg/bridal/']);"
+              style="text-decoration:none;"
+            >
+            
+            結婚披露宴等での音源使用について
+            </a>
+          </li>
+          
+          <div style="border-top: 1px solid #cccccc;padding-top:10px;"></div>
+          
+        </ul>
+      </div>
+      <!-- /.contents-banner-block -->
+    </div>
+    <!-- /.contents-banner-wrapper -->
+    <div class="clear-float sp-disnon"></div>
+
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+  </div>
+  <!-- /#contents-block -->
+</div>
+
+<!-- /#contents-wrapper -->
+<!-- /#footer-wrapper -->
+<div id="footer-fix"  class="footer-wrapper">
+  <div class="footer-block">
+    <p class="footer-link-block sp-disnon">
+      <a href="/f/policy/" target="_self">リンク・プライバシーポリシー</a>&nbsp;|&nbsp;
+      <a href="/f/sitemap/" target="_self">サイトマップ</a>&nbsp;|&nbsp;
+      <a href="/f/links/" target="_self">関連リンク</a>&nbsp;|&nbsp;
+      <a href="/inquiry/" target="_self">お問い合わせ</a>&nbsp;|&nbsp;
+      <a href="/f/about/" target="_self">日本レコード協会について</a>
+    </p>
+    <p class="copyright">Copyright&copy;&nbsp;RIAJ&nbsp;All&nbsp;Rights&nbsp;Reserved.</p>
+    <div class="clear-float sp-disnon"></div>
+  </div>
+  <!-- /.footer-block -->
+</div>
+<!-- /.footer-wrapper -->
+<!--
+	フッタブロック
+-->
+<!-- トップスライダー用スクリプト -->
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-8105972-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+</body>
+</html>

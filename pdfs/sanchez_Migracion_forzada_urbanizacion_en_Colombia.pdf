@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="de-DE" class="desktop generic">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    <meta name="referrer" content="origin">
+
+<meta charset="utf-8">
+<!--
+	Site implementation by AK@BU! Thanks to Kasper Skaarhoj & the Typo3 community!
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2017 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<base href="https://www.uni-weimar.de">
+
+<title>Bauhaus-Universität Weimar: 404 Not found</title>
+<meta name="robots" content="noindex,nofollow">
+
+
+<link rel="stylesheet" type="text/css" href="https://webcms19.uni-weimar.de/typo3conf/ext/buw_fe_skin/Resources/Public/css/skin/desktop.css?1524472941" media="all">
+<link rel="stylesheet" type="text/css" href="https://webcms19.uni-weimar.de/typo3conf/ext/buw_fe_skin/Resources/Public/css/skin/tint_gestaltung.css?1524472941" media="all">
+<link rel="stylesheet" type="text/css" href="https://webcms19.uni-weimar.de/typo3conf/ext/buw_fe_skin/Resources/Public/css/rwd/rwd.head.min.css?1524472941" media="all">
+<link rel="shortcut icon" href="/fileadmin/template/Favicon/favicon.ico?1527681605" ><link rel="icon" href="/fileadmin/template/Favicon/favicon.ico?1527681605" >
+</head>
+<body data-uid="11798" data-lang="0" id="body-11798" class="all gestaltung layout-detail-2">
+<div id="scrollable">
+  <div id="sectionwrapper">
+    
+    <section id='off-canvas-center' class='off-canvas-center'>
+    <div id="rwd-menu" class="desktop-hidden">
+      <div id="rwd_pagehead_logo">
+        <a id="rwd_pagehead_logo_link" href="/de/">
+        <span class="screen-reader">Bauhaus-Universit&auml;t Weimar</span>
+        </a>
+      </div>
+      <div class="background-image"></div>
+      <div class="menu">
+        <a class="rwd-button rwd-font rwd-button-left" href="">&#x2261;</a>
+      </div>
+      <nav class="bottom-bar">
+        <a class='rwd-button rwd-parent-link' href="">&#x2196;</a>
+        <select name="rwd-subpages" id="rwd-subpages" class="rwd-jump-to-selection" >
+          <optgroup class="select-header">
+            <option class="start item" selected="selected">
+              UNTERSEITEN
+              &nbsp;&#x25BC;
+            </option>
+          </optgroup>
+          <optgroup class="select-subpages">
+
+          </optgroup>
+        </select>
+      </nav>
+    </div>
+
+<div id="page" class="page">
+  <header aria-labelledby="pagehead_logo" id="header" class="header">
+<div class="ym-wrapper">
+  <div class="ym-wbox">
+    <table cellspacing="0" id="nav-layout">
+      <tr>
+        <td class="nav-layout-item nav-meta-left">
+          <!--{{{ nav meta -->
+          <nav id="nav-meta" class="ym-hlist nav-meta">
+          <ul id="nav-meta-list">
+            <li class="ifsub first"><span class="globalquicklinks_hint">Webmail</span><ul class="nav-meta-list-quickpane"><li><a href="https://webmail.uni-weimar.de/horde/imp/" target="_blank" rel="noreferrer">Webmail-Service für Studierende</a></li><li><a href="https://group.uni-weimar.de/owa" target="_blank" rel="noreferrer">Outlook für Mitarbeiter (OWA)</a></li></ul></li><li class="middle"><a href="http://www.uni-weimar.de/qisserver/rds?state=wtree&amp;search=1&amp;category=veranstaltung.browse&amp;topitem=lectures&amp;subitem=lectureindex&amp;breadcrumb=lectureindex" target="_self" class="meta-menu-link">Vorlesungsverzeichnis</a></li><li class="last"><a href="/de/universitaet/aktuell/pinnwaende/" target="_self" class="meta-menu-link">Pinnwände</a></li>
+          </ul>
+          </nav>
+          <!-- }}}-->
+        </td>
+        <td class="nav-layout-item search nav-meta-right">
+          <div role="search" class="nav-meta-search">
+            <form action="/de/hs/suche/" method="GET" class="ym-searchform"><input type="search" placeholder="Suche" class="ym-searchfield" value="" name="tx_kesearch_pi1[sword]" /><input type="submit" class="ym-searchbutton" value="Suche" name="" /><input type="hidden" value="11546" name="id"><input id="pagenumber" type="hidden" value="1" name="tx_kesearch_pi1[page]"><input id="resetFilters" type="hidden" value="1" name="tx_kesearch_pi1[resetFilters]"></form>
+          </div>
+        </td>
+        <td class="nav-layout-item globalquicklinks nav-meta-right">
+          <nav id="globalquicklinks" class="ym-vlist nav-meta">
+          <a class="globalquicklinks_hint meta-menu-link">Schnellzugriff</a>
+          <div id="quickpane" class="quickpane">
+            <ul class="quicklist"><li id="quicklist-item2056" class="quicklist-item"><a href="/de/jmp/studienberatung/" title="Studienberatung" target="_self" class="meta-menu-link">Studienberatung</a></li><li class="separator"><span class="sep"></span></li><li id="quicklist-item8460" class="quicklist-item"><a href="/de/jmp/bauhausjournal-online/" title="BAUHAUS.JOURNAL ONLINE" target="_self" class="meta-menu-link">BAUHAUS.JOURNAL ONLINE</a></li><li id="quicklist-item8172" class="quicklist-item"><a href="/de/jmp/veranstaltungskalender/" title="Veranstaltungskalender" target="_self" class="meta-menu-link">Veranstaltungskalender</a></li><li class="separator"><span class="sep"></span></li><li id="quicklist-item2054" class="quicklist-item"><a href="/de/jmp/universitaetsbibliothek/" title="Universitätsbibliothek" target="_self" class="meta-menu-link">Universitätsbibliothek</a></li><li id="quicklist-item8176" class="quicklist-item"><a href="/de/jmp/sprachenzentrum/" title="Sprachenzentrum" target="_self" class="meta-menu-link">Sprachenzentrum</a></li><li id="quicklist-item8177" class="quicklist-item"><a href="/de/jmp/sportzentrum/" title="Sportzentrum" target="_self" class="meta-menu-link">Sportzentrum</a></li><li id="quicklist-item8173" class="quicklist-item"><a href="/de/jmp/international-office/" title="International Office" target="_self" class="meta-menu-link">International Office</a></li><li id="quicklist-item22460" class="quicklist-item"><a href="/de/jmp/digital-studieren-e-learning/" title="Digital Studieren (E-Learning)" target="_self" class="meta-menu-link">Digital Studieren (E-Learning)</a></li><li id="quicklist-item2055" class="quicklist-item"><a href="http://www.stw-thueringen.de/deutsch/mensen/einrichtungen/weimar/mensa-am-park.html#speisepl" title="Mensa-Speiseplan" class="meta-menu-link"target="_blank"><span class="meta-menu-text">Mensa-Speiseplan</span></a></li><li class="separator"><span class="sep"></span></li><li id="quicklist-item2058" class="quicklist-item"><a href="/de/jmp/notfall/" title="Notfall" target="_self" class="meta-menu-link">Notfall</a></li><li class="separator"><span class="sep"></span></li><li id="quicklist-item1255" class="quicklist-item"><a href="/de/jmp/personensuche/" title="Personensuche" target="_self" class="meta-menu-link">Personensuche</a></li></ul>
+          </div>
+          </nav>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div id="pagehead_logo">
+  <a id="pagehead_logo_link" href="/de/">
+    <img class="print-only" title="Bauhaus-Universit&auml;t Weimar" src="/typo3conf/ext/buw_fe_skin/Resources/Public/css/images/logo_bw.png"/>
+    <span class="screen-reader">Bauhaus-Universit&auml;t Weimar</span>
+  </a>
+</div>
+</header>
+
+
+  <div id="main" class="main ym-wrapper">
+    <nav>
+      <div id="nav" class="nav nav-horizontal">
+        <div id="nav-main" class="nav-main">
+          <ul class="main-menu-list"><li class="main-menu-item list-start ym-g20 ym-gl"><a href="/de/universitaet/start/" target="_self" class="full_width main-menu-link"><span class="main-menu-link-fill">Universität</span></a></li><li class="main-menu-item ym-g20 ym-gl"><a href="/de/architektur-und-urbanistik/start/" target="_self" class="full_width main-menu-link"><span class="main-menu-link-fill">Architektur und Urbanistik</span></a></li><li class="main-menu-item ym-g20 ym-gl"><a href="/de/bauingenieurwesen/start/" target="_self" class="full_width main-menu-link"><span class="main-menu-link-fill">Bauingenieurwesen</span></a></li><li class="main-menu-item ym-g20 ym-gl"><a href="/de/kunst-und-gestaltung/start/" target="_self" class="full_width main-menu-link"><span class="main-menu-link-fill">Kunst und Gestaltung</span></a></li><li class="main-menu-item list-end ym-g20 ym-gr"><a href="/de/medien/start/" target="_self" class="full_width main-menu-link"><span class="main-menu-link-fill">Medien</span></a></li></ul>
+        </div>
+        <div id="nav-section" class="nav-section" data-level="2">
+
+        </div>
+      </div>
+    </nav>
+    <div role="main" class="ym-wbox ym-grid">
+
+<article class="content_container ym-grid" aria-labelledby="section_title">
+  <div id="content_top" class="content_top">
+    <div class="ym-box">
+      <div class="preamble">
+
+<!-- start partial section head -->
+<div id="section_head" class="ym-g66 ym-clearfix">
+  <!-- {{{ breadcrumbs start -->
+  <nav id="breadcrumbs">
+    <div class="ym-hlist">
+      <ol class="trail-list"></ol>
+    </div>
+  </nav>
+  <!-- breadcrumbs end }}} -->
+</div>
+<!-- end partial section head -->
+
+
+
+<header id="title" class="ym-g66 ym-clearfix">
+  <h1 id="section_title" class="content_title">404 Not found</h1>
+</header>
+
+      </div>
+    </div>
+  </div>
+  <div id="content_container" class="content_container ym-equalize">
+    <div id="content_main" class="content_main ym-g66 ym-gl">
+      <div id="c57326" class="csc-default  layout-topheader"><div class="csc-header csc-header-n1"><h2 class="headline csc-firstHeader headline-main">Die angeforderte Seite konnte nicht gefunden werden.</h2></div><p class="bodytext">Bitte versuchen Sie es über unsere <a href="/de/" target="_self" class="internal-link" class="csc-content-link">Startseite</a> oder über die <a href="/de/fs/sitemap/" title="internal title text" target="_self" class="internal-link" class="csc-content-link">Sitemap</a>.</p><p>Sofern Sie dies für eine Fehlfunktion des Servers halten, informieren Sie bitte den <a href="mailto:webmaster@uni-weimar.de">Webmaster</a> hierüber. </p></div>
+	  <div id="c57324" class="csc-default  layout-topheader"><div class="csc-header csc-header-n2"><h2 class="headline headline-main">The requested Page does not exist.</h2></div><p class="bodytext">Please try our <a href="/en/" target="_self" class="internal-link" class="csc-content-link">cover page</a> or use the <a href="/en/fs/sitemap/" title="internal title text" target="_self" class="internal-link" class="csc-content-link">Sitemap</a>.</p><p>If you think this is a server error, please contact the <a href="mailto:webmaster@uni-weimar.de">webmaster</a>.</p></div>
+    </div>
+    <div role="complementary" id="content_right" class="content_right ym-g33 ym-gr">
+
+
+<div role="contentinfo" aria-labelledby="contentquicklinks_title" id="contentquicklinks" class="generated aside quicklinks csc-service-box csc-box">
+  <header class="csc-header">
+  <h2 id="contentquicklinks_title" class="headline csc-firstHeader">
+    Quicklinks
+  </h2>
+  </header>
+  <div class="csc-text quicklinks">
+    <ul class="quicklist"><li class="quicklist-item"><a href="/de/ps/quicklinks/startseite/" title="Startseite" target="_self" class="quicklist-link">Startseite</a></li><li class="quicklist-item"><a href="/de/ps/quicklinks/sitemap/" title="Sitemap" target="_self" class="quicklist-link">Sitemap</a></li></ul>
+  </div>
+</div>
+
+
+
+
+    </div>
+  </div>
+</article>
+
+
+    </div>
+    <div id="page-bottom-padding"> <div class="bg-color"> </div> </div>
+    <div role="contentinfo" id="page_service">
+  <div id="social-media-channels-rwd" class="desktop-hidden"></div>
+  <div id="securityadvice" class="securityadvice">
+
+  </div>
+  <div id="output_service" class="output_service ym-clearfix"></div>
+</div>
+
+  </div>
+
+<div class="rwd-feedback desktop-hidden">
+    <a href="/de/" target="_self">Bauhaus-Universität Weimar</a>
+</div>
+
+  <footer id="footer">
+  <div class="ym-wrapper ym-clearfix">
+    <span id="copyright">&copy;&nbsp;Bauhaus-Universität Weimar</span>
+    <div id="social-media-channels-desktop" class="mobile-hidden"></div>
+    <nav id="nav-footer">
+      <ul id="nav-footer-list"><li class="item"><span class="sep"></span><a href="/de/fs/kontakt/" target="_self" class="footer-service-link">Kontakt</a></li><li class="item"><span class="sep"></span><a href="/de/fs/impressum/" target="_self" class="footer-service-link">Impressum</a></li><li class="item"><span class="sep"></span><a href="/de/fs/datenschutz/" target="_self" class="footer-service-link">Datenschutz</a></li><li class="item"><span class="sep"></span><a href="/de/fs/sitemap/" target="_self" class="footer-service-link">Sitemap</a></li><li class="item"><span class="sep"></span><a href="/de/fs/uni-intern/" target="_self" class="footer-service-link">Uni intern</a></li><li class="item"><span class="sep"></span><a href="/de/fs/typo3/" target="_self" class="footer-service-link">TYPO3</a></li></ul>
+    </nav>
+  </div>
+</footer>
+
+
+</div>
+
+    </section>
+  </div>
+</div>
+</body>
+</html>

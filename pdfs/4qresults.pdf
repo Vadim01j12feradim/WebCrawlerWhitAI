@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+
+        
+                    <meta charset="utf-8"/>
+                <title>PRISA Educación, información, entretenimiento</title>
+                                                <meta name="description" content="PRISA Educación, información, entretenimiento">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+       
+                <meta name="author" content="Prisa" />
+                <meta name="robots" content='NOINDEX, NOFOLLOW'>
+		
+		<link rel="shortcut icon" href="/packages/ttt/publica/img/ico/favicon.ico" type="image/x-icon" />
+                <link rel="icon" href="/packages/ttt/publica/img/ico/favicon.ico" type="image/x-icon" />
+
+		
+                <link rel="canonical" href="/error"/>
+                <!--Assets -->
+            <link href="/packages/ttt/publica/components/bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+            <link href="/packages/ttt/publica/components/slick/slick.css" type="text/css" rel="stylesheet" />
+            <link href="/packages/ttt/publica/components/magnific/magnific.css" type="text/css" rel="stylesheet" />
+            <link href="/packages/ttt/publica/css/estilos.css?v=2021-5" type="text/css" rel="stylesheet" />
+                <!--Algolia Instant Search-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css">
+    
+
+            <script type="text/javascript" src="/packages/ttt/publica/components/jquery-1.10.2.min.js"></script>
+            <script type="text/javascript" src="/packages/ttt/publica/components/bootstrap/js/bootstrap.min.js"></script>
+            <script type="text/javascript" src="/packages/ttt/publica/components/slick/slick.min.js"></script>
+            <script type="text/javascript" src="/packages/ttt/publica/components/magnific/magnific.js"></script>
+            <script type="text/javascript" src="/packages/ttt/publica/js/ttt.js?v=2021"></script>
+            <script type="text/javascript" src="/packages/ttt/publica/js/home.js"></script>
+                <!--Algolia Instant Search-->
+        <script src="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
+        <!-- Include AlgoliaSearch JS Client and autocomplete.js jQuery plugin after the jQuery dependency -->
+        <script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script>
+    
+
+
+        
+	<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+<script type="text/javascript">
+                    var SITE_URL = "https://www.prisa.com/",
+            BASE_URL = "https://www.prisa.com/";
+            var IDIOMA ="es";
+        </script>
+
+    
+        <script type="text/javascript" src="/packages/ttt/publica/js/tcfv2_corp.js"></script>
+    
+                </head>
+
+    <body id="es">
+        <div id="contenedor">
+
+                            <header>
+				
+    <div class="topBar text-right container">
+    	<ul class="list-inline">
+            	    	<li id="buscar">
+                    <button id="buscarToggle" class="collapsed btn btn-link btn-sm" type="button" data-toggle="collapse" data-target="#buscarForm"><span class="glyphicon glyphicon-search"></span> <span class="sr-only">Buscar</span></button>
+                    <form class="collapse" id="buscarForm" action="/es/buscador" method="get">                       
+                             <div class="input-group">
+                              <input type="text" placeholder="Término a buscar" name="q" class="form-control input-sm">
+                              <span class="input-group-btn">
+                                    <button class="btn btn-primary btn-sm" type="submit"> <span class="glyphicon glyphicon-search"></span> </button>
+                              </span>
+                            </div>
+                    </form>
+                </li>
+            			<li id="menuIdiomas">
+				<div class="btn-group">
+					<a class="btn btn-link dropdown-toggle btn-sm" data-toggle="dropdown" href="/es">
+						<span class="hidden-xs">
+						<span class="caret"></span>
+						Elegir Idioma
+						</span>
+						<span class="visible-xs-inline glyphicon glyphicon-globe">
+							<span class="sr-only">Elegir Idioma</span>
+						</span>                                
+					</a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a title="Español" href="/es/">Español</a></li>
+						<li><a title="English" href="/en/">English</a></li>
+                                               
+					</ul>
+				</div>
+			</li>
+			<li>
+				<a href="/es/info/proveedores" title="Acceso proveedores" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-lock"><span class="sr-only">Acceso proveedores</span></span> <span class="hidden-xs">Acceso proveedores</span></a>
+			</li>
+		</ul>
+	</div>
+        <!-- Navbar -->
+        <nav class="navbar navbar-default" role="navigation">
+        	<div class="container">
+        		<div class="navbar-header">
+        			<a href="/es" title="PRISA" class="navbar-brand text-hide">PRISA</a>
+        			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        				<span class="sr-only">Mostrar menú</span>
+        				<span class="icon-bar"></span>
+        				<span class="icon-bar"></span>
+        				<span class="icon-bar"></span>
+        			</button>
+        		</div>
+        		<div class="collapse navbar-collapse" id="menu">
+        			<div class="hidden-md hidden-lg menuCab"><span class="text-hide">Menu</span> </span> <span class="close">X</span> </div>
+        			<ul class="nav navbar-nav navbar-right">
+                                        <li class="" ><a href=""  class=" dropdown-toggle "  data-toggle="dropdown" >Quiénes <br/>Somos</a><ul class="dropdown-menu"><li ><a href="/es/info/un-grupo-global"  class=""  >Un grupo global</a></li><li ><a href="/es/info/consejo-de-administracion"  class=""  >Órganos de gobierno</a></li></ul></li><li class="" ><a href=""  class=" dropdown-toggle "  data-toggle="dropdown" >Áreas<br/> de actividad</a><ul class="dropdown-menu"><li ><a href="/es/info/educacion"  class=""  >Santillana</a></li><li ><p class="sinEnlace">PRISA Media</p><ul class="tercerLevel"><li><a href="/es/info/radio"  class=""  >Radio</a></li><li><a href="/es/info/noticias"  class=""  >Noticias</a></li></ul></li></ul></li><li class="" ><a href=""  class=" dropdown-toggle "  data-toggle="dropdown" >Sostenibilidad <br/ > </a><ul class="dropdown-menu"><li ><a href="/es/info/mision-vision-y-valores"  class=""  >Misión, visión y valores</a></li><li ><a href="/es/info/compromiso"  class=""  >Compromiso</a></li><li ><a href="/es/info/codigo-etico"  class=""  >Código ético y Canal de denuncias</a></li><li ><a href="/es/noticias/accion-social-cultural-y-medioambiental"  class=""  >Acción social, cultural y medioambiental</a></li><li ><a href="/es/info/proveedores"  class=""  >Proveedores</a></li><li ><a href="/es/info/informe-anual"  class=""  >Informes de Sostenibilidad</a></li><li ><a href="/es/info/plan-director-de-sostenibilidad-2022-2025"  class=""  >Plan Director de Sostenibilidad 2022-2025</a></li></ul></li><li class="megamenu" ><a href=""  class=" dropdown-toggle "  data-toggle="dropdown" >Accionistas e <br/>inversores</a><ul class="dropdown-menu"><!-- megamenu --><div class="row"><div class="col-sm-6"><div class="menuBox"><p class="h2">Información general</p><ul><li><a  href="/es/info/cauces-de-comunicacion"  >Cauces de comunicación</a></li><li><a  href="/es/info/la-accion-y-su-capital-social"  >La acción y su capital social</a></li><li><a target="_blank" href="http://www.cnmv.es/Portal/Consultas/DerechosVoto/PS_AC_INI.aspx?nif=A28297059"  >Participaciones significativas y autocartera</a></li><li><a target="_blank" href="http://www.cnmv.es/Portal/Consultas/DerechosVoto/PS_AC_INI.aspx?nif=A28297059"  >Pactos parasociales</a></li><li><a  href="/es/info/dividendos"  >Dividendos</a></li><li><a  href="/es/info/folletos"  >Folletos</a></li></ul></div><div class="menuBox"><p class="h2">Gobierno corporativo</p><ul><li><a  href="/es/info/estatutos-reglamentos-y-otras-normas-internas"  >Estatutos, Reglamentos y otras normas internas</a></li><li><a  href="/es/info/consejo-de-administracion-y-comisiones-del-consejo"  >Consejo de Administración y Comisiones del Consejo</a></li><li><a  href="/es/info/alta-direccion-prisa"  >Alta Dirección</a></li><li><a  href="/es/info/remuneraciones-de-los-consejeros"  >Remuneraciones de los Consejeros</a></li><li><a  href="/es/info/informe-anual-de-gobierno-corporativo"  >Informe Anual de Gobierno Corporativo</a></li></ul></div><div class="menuBox"><p class="h2">Información financiera</p><ul><li><a  href="/es/datos/resultados-trimestrales"  >Información Pública Periódica (IPP)</a></li><li><a  href="/es/datos/cuentas-anuales"  >Cuentas Anuales Auditadas e Informe de Gestión</a></li><li><a  href="/es/info/periodo-medio-de-pago-a-proveedores"  >Periodo medio de pago a proveedores</a></li><li><a  href="/es/info/capital-markets-day"  >Capital Markets Day</a></li><li><a  href="/es/info/ratings"  >Ratings</a></li></ul></div></div><div class="col-sm-6"><div class="menuBox"><p class="h2">Junta General de Accionistas</p><ul><li><a  href="/es/info/reglamento-junta-general-de-accionistas-1"  >Reglamento Junta General Accionistas</a></li><li><a  href="/es/info/juntas-generales-de-accionistas-2022"  >Juntas Generales de Accionistas 2022</a></li><li><a  href="/es/info/junta-ordinaria-de-accionistas-junio-2021"  >Junta Ordinaria de Accionistas 2021</a></li><li><a  href="/es/info/juntas-generales-de-accionistas-2020"  >Juntas Generales de Accionistas 2020</a></li><li><a  href="/es/info/junta-general-de-accionistas-junio-2019"  >Junta General de  Accionistas 2019</a></li><li><a  href="/es/info/junta-general-de-accionistas-abril-2018"  >Junta General de  Accionistas 2018</a></li><li><a  href="/es/info/juntas-generales-de-accionistas-2017"  >Juntas Generales de Accionistas 2017</a></li><li><a  href="/es/info/junta-general-de-accionistas-2016"  >Junta General de Accionistas 2016</a></li><li><a  href="/es/info/junta-general-de-accionistas-2015"  >Junta General de Accionistas 2015</a></li><li><a  href="/es/datos/juntas-generales"  >Juntas Generales de Accionistas anteriores a 2015</a></li></ul></div><div class="menuBox"><p class="h2">Comunicaciones a la CNMV</p><ul><li><a target="_blank" href="https://www.cnmv.es/portal/Informacion-Privilegiada/Resultado-IP.aspx?nif=A28297059"  >Información privilegiada</a></li><li><a target="_blank" href="https://edge.media-server.com/mmc/p/65z2ycjh"  >Webcast Refinanciación de deuda y Venta de Santillana España</a></li><li><a target="_blank" href="https://www.cnmv.es/portal/Otra-Informacion-Relevante/Resultado-OIR.aspx?nif=A28297059"  >Otra información relevante</a></li><li><a target="_blank" href="https://www.cnmv.es/portal/HR/ResultadoBusquedaHR.aspx?division=3&nif=A28297059"  >Hechos Relevantes hasta el 8 de febrero de 2020</a></li></ul></div></div></div><!-- fin megamenu --></ul></li><li class="" ><a href=""  class=" dropdown-toggle "  data-toggle="dropdown" >Empleo y <br/>formación</a><ul class="dropdown-menu"><li ><a href="/es/info/empleo"  class=""  >Empleo</a></li><li ><a href="/es/info/formacion"  class=""  >Formación</a></li></ul></li><li class="" ><a href=""  class=" dropdown-toggle "  data-toggle="dropdown" >Sala<br/> de prensa</a><ul class="dropdown-menu"><li ><a href="/es/noticias/notas-de-prensa"  class=""  >Notas de prensa</a></li><li ><a href="/es/noticias/noticias-1"  class=""  >Noticias</a></li><li ><a href="/es/info/informes-anuales"  class=""  >Informes de Sostenibilidad</a></li></ul></li>
+        			</ul>
+        		</div><!--/navbar-collapse-->
+        	</div>
+        </nav>            
+        <!-- End Navbar -->
+</header>                        <div id="cuerpo">
+                
+                <section id="pagina" class="container e404">
+    <h1>Página no encontrada</h1>
+	<div class="text-center">
+
+	<p class="gigantic anima" data-anima="bounce">Error</p>
+    <p>La página solicitada no existe en este servidor. Inténtelo nuevamente verificando la dirección.</p>
+	</div>
+</section>
+                                <section id="bannerBottom">
+                        <div class="container">
+                                <div class="media banner col-sm-8 col-sm-push-2">
+<div class="media-body">
+<p class="media-heading">¿Quieres contactar con nosotros?</p>
+<p class="small">Si lo necesitas, puedes ponerte en contacto con cualquiera de nuestros departamentos</p>
+</div>
+<div class="media-right media-middle"><a title="Contacta con PRISA" class="btn btn-primary btn-lg" href="/es/contacto"> Contactar </a></div>
+</div>
+                        </div>
+                </section>
+                            </div>
+            
+			
+        </div>
+		
+    <footer>
+    <div id="pie">
+<div class="container">
+<p class="pieClaim" style="text-align: center;">PRISA es el primer grupo de medios de comunicación en los mercados de habla hispana, <br />presente en 23 países y líder en educación, información y entretenimiento.</p>
+<ul class="list-inline pieMenu">
+<li><a title="Aviso legal" href="/es/info/aviso-legal">Aviso legal</a></li>
+<li><a title="Créditos" href="/es/info/creditos">Créditos</a></li>
+<li><a title="Política de privacidad" href="/es/info/politica-de-privacidad">Política de privacidad</a></li>
+<li class="ocultar"><a title="Política de cookies" href="/es/info/politica-de-cookies-prisa">Política de cookies</a></li>
+<li><a title="Canal de denuncias" href="/es/info/codigo-etico">Canal de denuncias</a></li>
+<li><a title="Proveedores" href="/es/info/proveedores">Proveedores</a></li>
+<li><a title="Contacto" href="/es/contacto">Contacto</a></li>
+</ul>
+</div>
+</div>
+<div id="pieRedes" class="text-center">
+<ul>
+<li><a title="Facebook" href="http://www.facebook.com/PRISA" rel="external"><img src="/packages/ttt/publica/img/ico/facebook.png" alt="Facebook" /></a></li>
+<li><a title="Twitter" href="http://www.twitter.com/PRISA" rel="external"><img src="/packages/ttt/publica/img/ico/twitter.png" alt="Twitter" /></a></li>
+<li><a title="LinkedIn" href="https://www.linkedin.com/company/prisa?trk=nav_account_sub_nav_company_admin" target="_blank"><img src="/uploads/2016/07/linkedinpng_1.png" alt="LinkedIn" width="32" height="32" /></a></li>
+</ul>
+</div>
+<div id="pieCreditos">
+<div class="container">
+<p><strong>@PRISA</strong> <strong>Gran Vía, 32. 28013 Madrid, España. +34 91 330 10 00</strong></p>
+</div>
+</div>
+<div id="pieComun">
+<script>// <![CDATA[
+$(document).ready(function(){
+		$("a#pbt-medios").click(function(event){
+			$("#capa-webs-grupo").addClass("activado");
+		});
+		$("a#cierrame").click(function(event){
+			$("#capa-webs-grupo").removeClass("activado");
+		});
+		$("a#cierrame2").click(function(event){
+			$("#capa-webs-grupo").removeClass("activado");
+		});
+	});
+// ]]></script>
+<div id="pie-comun9">
+<div class="inside" style="border-top: none; background-image: url('/uploads/2021/03/piev9-2013-light.png');">
+<div class="medios-destacados"><a id="pc_prisa" href="https://www.prisa.com/es" target="_blank" title="Ir a la web del Grupo Prisa">Una empresa de PRISA</a> <a id="pc_prisa" href="https://www.prisa.com/es" target="_blank" title="Ir a la web del Grupo Prisa">Una empresa de PRISA</a> <a id="pbt-medios" title="medios Grupo Prisa"></a>
+<ul class="primerafila estirar">
+<li><a id="pc_elpais" href="https://elpais.com/" target="_blank" title="EL PAÍS">El PAÍS</a></li>
+<li><a id="pc_los40" href="https://los40.com" target="_blank" title="Ir a la web de Los 40">Los 40 principales</a></li>
+<li><a id="pc_santillana" href="https://www.santillana.com/" target="_blank" title="Ir a la web de Santillana">Santillana</a></li>
+<li><a id="pc_compartir" href="https://santillanacompartir.com/" target="_blank" title="Ir a la web de Santillana Compartir">Santillana Compartir</a></li>
+<li><a id="pc_ser" href="https://cadenaser.com" target="_blank" title="Ir a la web de Cadena SER">Cadena SER</a></li>
+<li><a id="pc_as" href="https://as.com/" target="_blank" title="Ir a la web de AS">AS.com</a></li>
+<li><a id="pc_adn" href="https://www.adnradio.cl/" target="_blank" title="Ir a la web de ADN">adn</a></li>
+<li><a id="pc_caracol" href="https://caracol.com.co/" target="_blank" title="Ir a la web de Caracol">Caracol</a></li>
+</ul>
+<ul class="estirar">
+<li><a id="pc_huffington" href="https://www.huffingtonpost.es/" target="_blank" title="Ir a la web de Huffington Post">Huffington Post</a></li>
+<li><a id="pc_uno" href="https://mx.unoi.com/" target="_blank" title="Ir a la web de Sistema UNO">UNO</a></li>
+<li><a id="pc_wradio" href="https://wradio.com.mx/" target="_blank" title="Ir a la web de wradio">wradio</a></li>
+<li><a id="pc_cincodias" href="https://cincodias.elpais.com/" target="_blank" title="Ir a la web de Cinco Días">Cinco Días</a></li>
+<li><a id="pc_dial" href="https://www.cadenadial.com/" target="_blank" title="Ir a la web de Cadena Dial">Cadena Dial</a></li>
+<li><a id="pc_eps" href="https://elpais.com/eps/" target="_blank" title="Ir a la web de EL PAÍS Semanal">EL PAÍS Semanal</a></li>
+<li><a id="pc_planeta" href="https://elpais.com/planeta-futuro/" target="_blank" title="Ir a la web de Planeta futuro">Planeta futuro</a></li>
+<li><a id="pc_kebuena" href="https://www.kebuena.com.mx/" target="_blank" title="Ir a la web de Kebuena">Kebuena</a></li>
+</ul>
+<ul class="estirar">
+<li><a id="pc_richmond" href="http://www.richmondelt.com/" target="_blank" title="Ir a la web de Richmond">Richmond</a></li>
+<li><a id="pc_moderna" href="https://www.moderna.com.br/pagina-inicial.htm" target="_blank" title="Ir a la web de Moderna">Moderna</a></li>
+<li><a id="pc_podium" href="https://www.podiumpodcast.com/" target="_blank" title="Ir a la web de Podium Podcast">Podium podcasts</a></li>
+<li><a id="pc_icon" href="https://elpais.com/elpais/icon.html" target="_blank" title="Ir a la web de El PaÍs ICON">El PaÍs ICON</a></li>
+<li><a id="pc_smoda" href="https://smoda.elpais.com/" target="_blank" title="Ir a la web de S moda">S moda</a></li>
+<li><a id="pc_loqueleo" href="https://www.loqueleo.com/" target="_blank" title="Ir a la web de loqueleo">loqueleo</a></li>
+<li><a id="pc_meristation" href="https://as.com/meristation/" target="_blank" title="Ir a la web de Meristation">Meristation</a></li>
+</ul>
+</div>
+<!-- /medios-destacados -->
+<div id="capa-webs-grupo" class="muestra-medios"><!-- activado / desactivado -->
+<div class="capa-medios">
+<div class="cabecera-capa estirar">
+<h3>Webs de PRISA</h3>
+<a id="cierrame" title="cerrar"></a></div>
+<!-- /cabecera-capa --> <iframe src="/uploads/2021/09/i-pie-comun-enlaceshtml_1.html" width="993" height="281" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<div class="pc-sombreado"></div>
+<!-- /pc-sombreado --></div>
+<!-- /capa-medios --></div>
+<!-- /muestra-medios --></div>
+<!-- /inside --></div>
+<!-- /pie-comun3 --></div>
+</footer>		
+		      <script type="text/javascript">
+            
+			 $(document).ready(function(){
+				tttjs.init();
+			});
+
+
+			
+            
+
+        </script>
+
+        <a href="#contenedor" id="subir" class="ancla" title="Subir al inicio de la página"><span class="glyphicon glyphicon-menu-up"><span class="sr-only">Subir al inicio de la página</span></span></a>
+    </body>
+</html>

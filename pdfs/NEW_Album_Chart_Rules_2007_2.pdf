@@ -1,0 +1,1225 @@
+
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    
+
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<title>Official Charts Company</title>
+<meta name="description" content="The Official Charts Company - Home of the Official UK Top 40 Charts." />
+<meta name="keywords" content="Top 40, UK Top 40, Charts, Top 40 UK, UK Charts, UK singles chart, Music Charts, Official UK Top 40, Charts 2012, Hit 40 UK, UK Chart, Official Singles Chart, Official Albums Chart, Number 1, Number One" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+
+
+    <link rel="canonical" href="https://www.officialcharts.com/docs/new_album_chart_rules_2007_2.pdf/"/>
+
+
+
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,300,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/Css/style.css" />
+    
+
+    <script type="text/javascript" src=https://mailer.officialcharts.com/h/d/5C5B2B0228834DED/547A13F72B953763/popup.js></script>
+
+<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://quantcast.mgr.consensu.org'
+    .concat('/choice/', 'qFYsnYXTfYNA0', '/', host, '/choice.js')
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+window._qevents = window._qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+window._qevents.push({
+qacct:"p-qFYsnYXTfYNA0",
+uid:"__INSERT_EMAIL_HERE__"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-qFYsnYXTfYNA0.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<style>
+@media (max-width: 767px) {
+#container table.track-table tr td:last-child {
+		display: table-cell;
+	}}
+</style>
+
+    <!-- Ad integration -->
+    <!-- Google Tag Manager -->
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-N4M62G6');</script>
+<!-- End Google Tag Manager -->
+    <!-- End of Ad integration -->
+
+    <script src="/Scripts/libs/modernizr.js"></script>
+</head>
+<body>
+
+        <!-- Google Tag Manager -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N4M62G6" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K2GCQ2" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-K2GCQ2');
+        </script>
+        <!-- End Google Tag Manager -->
+
+    <input id="top-100-link-text" type="hidden" value="View the Top 100" />
+
+    <!--facebook-->
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=213254292042906&version=v2.0";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <!--end facebook-->
+
+    <script src="https://apis.google.com/js/plusone.js" async defer></script>
+
+    <div id="container">
+
+            <!-- Top Navigation elements -->
+
+
+<header class="site-header">
+
+    <div class="inner-area">
+
+        <a href="/" class="logo"><img src="/img/header/logo.png" alt="Official Charts " loading="lazy"></a>
+
+        <a href="" class="site-nav-toggle icon-menutoggle"></a>
+
+        <!-- Mobile Site Nav -->
+        <nav class="site-nav-mobile">
+            <ul>
+                <li><a class="search-mobile-on" href="">Search</a></li>
+
+                    <li><a href="/news/latest-news/">News</a></li>
+                    <li><a href="/new-releases/">New Releases</a></li>
+                    <li><a href="/charts/">Charts</a></li>
+                    <li><a href="/archive/">Archive</a></li>
+                    <li><a href="/artists/">Artists</a></li>
+                                    <!-- Shop link is different -->
+                    <li><a href="https://shop.officialcharts.com/" target="_blank">Shop</a></li>
+            </ul>
+        </nav>
+
+        <!-- Social bar -->
+        <nav class="site-nav-social">
+            <ul>
+                <li><a class="icon-twitter" href="https://twitter.com/OfficialCharts" target="_blank"><span>Twitter</span></a></li>
+                <li><a class="icon-facebook" href="https://www.facebook.com/officialcharts" target="_blank"><span>Facebook</span></a></li>
+                <li><a class="icon-radio1" href="https://www.bbc.co.uk/programmes/b006wkgn" target="_blank"><span>BBC Radio 1</span></a></li>
+                <li><a class="icon-instagram" href="https://instagram.com/officialcharts" target="_blank"><span>Instagram</span></a></li>
+                <li><a class="icon-youtube" href="https://www.youtube.com/OfficialCharts" target="_blank"><span>Youtube</span></a></li>
+                <li><a class="icon-search show-search" href="" target="_blank"><span>Search</span></a></li>
+            </ul>
+        </nav>
+
+        <!-- Main Site Nav -->
+        <nav class="site-nav-desktop" role="navigation">
+            <ul>
+                    <li class="chart-news" ><a href="/news/latest-news/">News</a></li>
+                    <li class="new-releases" ><a href="/new-releases/">New Releases</a></li>
+                    <li class="charts" ><a href="/charts/">Charts</a></li>
+                    <li class="archive" ><a href="/archive/">Archive</a></li>
+                    <li class="artists" ><a href="/artists/">Artists</a></li>
+                                    <!-- Shop link is different -->
+                    <li><a href="https://shop.officialcharts.com/" target="_blank">Shop</a></li>
+            </ul>
+        </nav>
+
+    </div>
+
+</header>
+
+        
+
+    <div id="main" role="main">
+        
+        <div id="D2" class="adspace adspace-top">
+            <div id="ci_ad_728x90_1"></div>
+        </div>
+
+        <article class="page">
+            <header class="article-header">
+                <h1 class="article-heading">
+                    Uh oh. Looks like there was a problem.
+                </h1>
+                <h2 class="article-subheading">
+                    We are sorry but the page you are looking for no longer exists.
+                </h2>
+            </header>
+
+            <div class="grid">
+                <div class="grid__cell unit-2-3--desktop">
+                    <div class="article-content">
+                        <p><span style="color: #645858; font-family: AktivGroteskRegular, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19.1000919342041px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgba(255, 255, 255, 0.952941);">To help you on your way through the site below are a few areas you may want to look at:-</span></p> <p> </p> <p><a href="/home/" target="_top" title="Home"><span style="color: #645858; font-family: AktivGroteskRegular, Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19.1000919342041px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgba(255, 255, 255, 0.952941);">Go to Homepage!</span></a></p>
+                    </div>
+                </div>
+
+                <div class="grid__cell unit-1-3--desktop">
+
+                    
+
+<section class="sidebar-grey">
+
+    <div class="grid">
+
+        <div class="grid__cell unit-1-2--tablet">
+
+            <!-- Countdown -->
+            <section class="sidebar-countdown">
+                <h2 class="sidebar-countdown-title">New Top 40 charts announced in...</h2>
+                <div id="countdown" class="countdown" data-daylight-savings="1" data-clock-day="5" data-clock-hours="17" data-clock-mins="45">
+                    <!--1 if daylight savings in effect, 0 if not-->
+                </div>
+            </section>
+
+            <!-- Ad Space -->
+            <div id="D4" class="adspace" style="margin: 10px 0;">
+
+                <div class="adspace__mpu">
+
+                   <div id="ci_ad_300x250_1"></div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="grid__cell unit-1-2--tablet">
+            <section id="sidebar-chart" class="sidebar-chart">
+                <!-- 3 Tab Charts - Content filled by JavaScript -->
+            </section>
+        </div>
+
+    </div>
+
+</section>
+
+                    <section class="sidebar">
+
+                        <div class="grid">
+                            <div class="grid__cell unit-1-2--tablet">
+
+                                
+
+<section class="sidebar-lookup">
+
+    <h2 class="module-heading">Access The Archive</h2>
+
+    <div class="row">
+
+        <form action="">
+            <div class="inputs">
+
+                <fieldset class="select-boxes">
+
+                    <div class="select">
+                        <select name="Day" id="archive-day-search">
+                            <option selected value="">Day</option>
+                                <option value="01">1</option>
+                                <option value="02">2</option>
+                                <option value="03">3</option>
+                                <option value="04">4</option>
+                                <option value="05">5</option>
+                                <option value="06">6</option>
+                                <option value="07">7</option>
+                                <option value="08">8</option>
+                                <option value="09">9</option>
+                                <option value="10">10</option>
+                                <option value="11">11</option>
+                                <option value="12">12</option>
+                                <option value="13">13</option>
+                                <option value="14">14</option>
+                                <option value="15">15</option>
+                                <option value="16">16</option>
+                                <option value="17">17</option>
+                                <option value="18">18</option>
+                                <option value="19">19</option>
+                                <option value="20">20</option>
+                                <option value="21">21</option>
+                                <option value="22">22</option>
+                                <option value="23">23</option>
+                                <option value="24">24</option>
+                                <option value="25">25</option>
+                                <option value="26">26</option>
+                                <option value="27">27</option>
+                                <option value="28">28</option>
+                                <option value="29">29</option>
+                                <option value="30">30</option>
+                                <option value="31">31</option>
+                        </select>
+                    </div>
+
+                    <div class="select">
+                        <select name="Month" id="archive-month-search">
+                            <option selected value="">Month</option>
+                            <option value="01">Jan</option>
+                            <option value="02">Feb</option>
+                            <option value="03">Mar</option>
+                            <option value="04">Apr</option>
+                            <option value="05">May</option>
+                            <option value="06">Jun</option>
+                            <option value="07">Jul</option>
+                            <option value="08">Aug</option>
+                            <option value="09">Sep</option>
+                            <option value="10">Oct</option>
+                            <option value="11">Nov</option>
+                            <option value="12">Dec</option>
+                        </select>
+                    </div>
+
+                    <div class="select">
+                        <select name="Year" id="archive-year-search">
+                            <option selected value="">Year</option>
+                                    <option value="2023">2023</option>
+                                    <option value="2022">2022</option>
+                                    <option value="2021">2021</option>
+                                    <option value="2020">2020</option>
+                                    <option value="2019">2019</option>
+                                    <option value="2018">2018</option>
+                                    <option value="2017">2017</option>
+                                    <option value="2016">2016</option>
+                                    <option value="2015">2015</option>
+                                    <option value="2014">2014</option>
+                                    <option value="2013">2013</option>
+                                    <option value="2012">2012</option>
+                                    <option value="2011">2011</option>
+                                    <option value="2010">2010</option>
+                                    <option value="2009">2009</option>
+                                    <option value="2008">2008</option>
+                                    <option value="2007">2007</option>
+                                    <option value="2006">2006</option>
+                                    <option value="2005">2005</option>
+                                    <option value="2004">2004</option>
+                                    <option value="2003">2003</option>
+                                    <option value="2002">2002</option>
+                                    <option value="2001">2001</option>
+                                    <option value="2000">2000</option>
+                                    <option value="1999">1999</option>
+                                    <option value="1998">1998</option>
+                                    <option value="1997">1997</option>
+                                    <option value="1996">1996</option>
+                                    <option value="1995">1995</option>
+                                    <option value="1994">1994</option>
+                                    <option value="1993">1993</option>
+                                    <option value="1992">1992</option>
+                                    <option value="1991">1991</option>
+                                    <option value="1990">1990</option>
+                                    <option value="1989">1989</option>
+                                    <option value="1988">1988</option>
+                                    <option value="1987">1987</option>
+                                    <option value="1986">1986</option>
+                                    <option value="1985">1985</option>
+                                    <option value="1984">1984</option>
+                                    <option value="1983">1983</option>
+                                    <option value="1982">1982</option>
+                                    <option value="1981">1981</option>
+                                    <option value="1980">1980</option>
+                                    <option value="1979">1979</option>
+                                    <option value="1978">1978</option>
+                                    <option value="1977">1977</option>
+                                    <option value="1976">1976</option>
+                                    <option value="1975">1975</option>
+                                    <option value="1974">1974</option>
+                                    <option value="1973">1973</option>
+                                    <option value="1972">1972</option>
+                                    <option value="1971">1971</option>
+                                    <option value="1970">1970</option>
+                                    <option value="1969">1969</option>
+                                    <option value="1968">1968</option>
+                                    <option value="1967">1967</option>
+                                    <option value="1966">1966</option>
+                                    <option value="1965">1965</option>
+                                    <option value="1964">1964</option>
+                                    <option value="1963">1963</option>
+                                    <option value="1962">1962</option>
+                                    <option value="1961">1961</option>
+                                    <option value="1960">1960</option>
+                                    <option value="1959">1959</option>
+                                    <option value="1958">1958</option>
+                                    <option value="1957">1957</option>
+                                    <option value="1956">1956</option>
+                                    <option value="1955">1955</option>
+                                    <option value="1954">1954</option>
+                                    <option value="1953">1953</option>
+                                    <option value="1952">1952</option>
+
+                        </select>
+                    </div>
+
+                </fieldset>
+
+            </div>
+
+            <input id="archive-date-submit" class="input-submit" type="submit" value="Go" />
+        </form>
+    </div>
+
+    <div class="row">
+        <form action="">
+            <div class="inputs">
+                <input id="archive-artist-input" class="input-text" placeholder="Search artists & news" type="search">
+            </div>
+            <input id="archive-artist-submit" class="input-submit" type="submit" value="Go" />
+        </form>
+    </div>
+
+    <div class="row">
+        <form action="">
+            <div class="inputs">
+                <input id="archive-title-input" class="input-text" placeholder="Search by title" type="search">
+            </div>
+            <input id="archive-title-submit" class="input-submit" type="submit" value="Go" />
+        </form>
+    </div>
+</section>
+
+                            </div>
+                            <div class="grid__cell unit-1-2--tablet">
+
+                                <section class="sidebar-newsletter">
+
+    <header>
+        <h2 class="module-heading">The charts in your inbox</h2>
+        <h3>Sign up for our newsletter</h3>
+    </header>
+
+    <div class="row">
+
+        <form class="js-cm-form"
+              id="subForm"
+              method="post"
+              action="https://www.createsend.com/t/subscribeerror?description=mlltti"
+              data-id="92D4C54F0FEC16E5ADC2B1904DE9ED1A9BE0B32E31D006588C8817660D2A65F7C5181D1912F077C99F4E77DD55060A9757A2FECBE545A46D1CB692D0C7FF8B6D">
+
+            <div class="inputs">
+                <input class=" input-text js-cm-email-input qa-input-email"
+                       id="fieldEmail"
+                       type="email"
+                       required
+                       name="cm-mlltti-mlltti">
+            </div>
+
+            <input class="input-submit" type="submit" value="Submit" />
+            <p class="sidebar-newsletter--privacy-policy"><a href="/who-we-are/privacy-policy/" target="_blank">View privacy policy</a></p>
+        </form>
+    </div>
+
+    <script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
+
+</section>
+
+                                
+
+
+    <section class="sidebar-twitter">
+
+        <header>
+            <h2 class="module-heading">Twitter feed</h2>
+        </header>
+
+        <ul class="tweets">
+
+                <li>
+                    <div class="tweet">RT @<a target='_blank' href='https://twitter.com/officialcharts'>officialcharts</a>: Jessie Ware? The National? The Lottery Winners? Nines? The race for the UK's Number  1 album is already WIDE open 🤪 htt…</div>
+                </li>
+                <li>
+                    <div class="tweet">Taylor Swift's Record Store Day (@<a target='_blank' href='https://twitter.com/recordstoreday'>recordstoreday</a>) release folklore - the long pond studio sessions tops this week's… <a href="https://t.co/Bs0QW7knC5" target="_blank">https://t.co/Bs0QW7knC5</a></div>
+                </li>
+                <li>
+                    <div class="tweet">Freya's accomplished second album sees her reclaim her pain and tell her story with big pop flourishes… <a href="https://t.co/27loBGzryr" target="_blank">https://t.co/27loBGzryr</a></div>
+                </li>
+
+        </ul>
+
+        <a href="https://twitter.com/OfficialCharts" target="_blank" class="cta">Follow us on twitter</a>
+
+    </section>
+
+    <div class="sidebar-banner">
+        <a href="https://weare1of100.co.uk/clothing/t-shirts/official-charts/" target=&quot;_blank&quot;>
+            <img src="/media/663192/1-of-100-limited-drop-ticker-tape-site-button.png?width=392&amp;height=150&amp;mode=stretch" alt="https://weare1of100.co.uk/clothing/t-shirts/official-charts/" loading="lazy">
+        </a>
+    </div>
+<div class="sidebar-facebook">
+    <div class="fb-like-box" data-href="https://www.facebook.com/OfficialCharts" data-width="392" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+</div>
+    <div class="sidebar-banner">
+        <a href="https://www.bbc.co.uk/programmes/b006wkgn" target=&quot;_blank&quot;>
+            <img src="/media/649579/radio-1-official-chart-promo-button.jpg?width=392&amp;height=150&amp;mode=stretch" alt="" loading="lazy">
+        </a>
+    </div>
+<section class="sidebar-newsletter">
+    <header>
+        <h2 class="module-heading">Follow us on Flipboard</h2>
+    </header>
+    <div class="row">
+        <a data-flip-widget="ico" href="https://flipboard.com/@OfficialCharts?utm_campaign=tools&utm_medium=follow&action=follow"><img src="https://cdn.flipboard.com/badges/flipboard_lrsw.png" alt="Flipboard" /></a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+    </div>
+</section>
+
+<section class="adspace sidebar-bottom-ads">
+    
+</section>
+
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </article>
+    </div>
+
+<div id="ci_ad_1x1_1"></div>
+
+    
+
+
+<section class="footer-more inner-content">
+
+    <header>
+        <h2 class="sidebar-heading">
+            <a href="/news/latest-news/">More Charty Stuff...</a>
+        </h2>
+    </header>
+
+    <div class="grid">
+
+        <div class="grid__cell unit-1-3--desktop">
+            <div class="bottom-chart-logo">
+            </div>
+            <section id="footer-chart" class="footer-chart">
+                <!-- Mini Charts - Content filled by javascript-->
+            </section>
+        </div>
+
+        <div class="grid__cell unit-1-3--desktop">
+            <ul class="article-list">
+                        <li>
+                            <article class="article-link-mini">
+                                <a href="/chart-news/jessie-ware-and-the-lottery-winners-stoke-excitement-for-next-weeks-uk-number-1-album-race__39159/">
+                                    <div class="image">
+                                        <img src="/media/663604/jessie-vs-the-lottery-winners.jpg?width=154&amp;height=77&amp;mode=stretch" alt="Battle lines already drawn for next week&#39;s UK Number 1 album race" loading="lazy">
+                                    </div>
+                                    <div class="text">Battle lines already drawn for next week&#39;s UK Number 1 album race</div>
+                                </a>
+                            </article>
+                        </li>
+                        <li>
+                            <article class="article-link-mini">
+                                <a href="/chart-news/the-closest-battles-for-number-1-on-the-official-singles-chart__22356/">
+                                    <div class="image">
+                                        <img src="/media/654547/geri-halliwell-boyzone-1100.jpg?width=154&amp;height=77&amp;mode=stretch" alt="The closest battles for Number 1 on the Official Singles Chart" loading="lazy">
+                                    </div>
+                                    <div class="text">The closest battles for Number 1 on the Official Singles Chart</div>
+                                </a>
+                            </article>
+                        </li>
+                        <li>
+                            <article class="article-link-mini">
+                                <a href="/chart-news/all-the-number-1-singles__7931/">
+                                    <div class="image">
+                                        <img src="/media/659915/number-1-singles.jpg?width=154&amp;height=77&amp;mode=stretch" alt="All The Official Singles Chart Number 1s" loading="lazy">
+                                    </div>
+                                    <div class="text">All The Official Singles Chart Number 1s</div>
+                                </a>
+                            </article>
+                        </li>
+                        <li>
+                            <article class="article-link-mini">
+                                <a href="/chart-news/calvin-harris-ellie-goulding-s-miracle-returns-to-number-1-in-extremely-close-race-with-newcomer-david-kushner__39153/">
+                                    <div class="image">
+                                        <img src="/media/663601/ellie-calvin-vs-david.jpg?width=154&amp;height=77&amp;mode=stretch" alt="Calvin &amp; Ellie beat David Kushner to Number 1 in close race" loading="lazy">
+                                    </div>
+                                    <div class="text">Calvin &amp; Ellie beat David Kushner to Number 1 in close race</div>
+                                </a>
+                            </article>
+                        </li>
+                        <li>
+                            <article class="article-link-mini">
+                                <a href="/chart-news/all-the-number-1-albums__7949/">
+                                    <div class="image">
+                                        <img src="/media/659923/number-1-albums.jpg?width=154&amp;height=77&amp;mode=stretch" alt="All The Official Albums Chart Number 1s" loading="lazy">
+                                    </div>
+                                    <div class="text">All The Official Albums Chart Number 1s</div>
+                                </a>
+                            </article>
+                        </li>
+
+            </ul>
+        </div>
+
+        <div class="grid__cell unit-1-3--desktop">
+            <ul class="article-list">
+                        <li>
+                            <article class="article-link-mini">
+                                <a href="/chart-news/enter-shikari-net-first-ever-number-1-album-with-a-kiss-for-the-whole-world__39152/">
+                                    <div class="image">
+                                        <img src="/media/663603/enter-shikari-a-kiss-for-the-whole-world-number-1-album-1.jpg?width=154&amp;height=77&amp;mode=stretch" alt="Enter Shikari net first-ever Number 1 album with A Kiss for the Whole World" loading="lazy">
+                                    </div>
+                                    <div class="text">Enter Shikari net first-ever Number 1 album with A Kiss for the Whole World</div>
+                                </a>
+                            </article>
+                        </li>
+                        <li>
+                            <article class="article-link-mini">
+                                <a href="/chart-news/hmvs-iconic-flagship-london-store-to-return-to-363-oxford-street__39150/">
+                                    <div class="image">
+                                        <img src="/media/663597/hmv-oxford-street.jpg?width=154&amp;height=77&amp;mode=stretch" alt="HMV&#39;s Oxford Street flagship store is making a comeback" loading="lazy">
+                                    </div>
+                                    <div class="text">HMV&#39;s Oxford Street flagship store is making a comeback</div>
+                                </a>
+                            </article>
+                        </li>
+                        <li>
+                            <article class="article-link-mini">
+                                <a href="/chart-news/new-releases-jessie-ware-jack-harlow-labrinth-and-freya-ridings__39145/">
+                                    <div class="image">
+                                        <img src="/media/663596/new-releases-27042023.jpg?width=154&amp;height=77&amp;mode=stretch" alt="This week&#39;s New Releases: Jessie, Jack, Labrinth and Freya" loading="lazy">
+                                    </div>
+                                    <div class="text">This week&#39;s New Releases: Jessie, Jack, Labrinth and Freya</div>
+                                </a>
+                            </article>
+                        </li>
+                        <li>
+                            <article class="article-link-mini">
+                                <a href="/chart-news/rudimental-celebrate-homes-10-year-anniversary-on-the-official-chart-we-listened-to-feel-the-love-get-to-number-1-on-the-radio__39138/">
+                                    <div class="image">
+                                        <img src="/media/663594/rudimental.jpg?width=154&amp;height=77&amp;mode=stretch" alt="Rudimental celebrate Home&#39;s 10 year anniversary on the Official Chart" loading="lazy">
+                                    </div>
+                                    <div class="text">Rudimental celebrate Home&#39;s 10 year anniversary on the Official Chart</div>
+                                </a>
+                            </article>
+                        </li>
+                        <li>
+                            <article class="article-link-mini">
+                                <a href="/chart-news/conor-maynard-returns-with-storage-first-listen__39141/">
+                                    <div class="image">
+                                        <img src="/media/663590/conor-maynard-storage.jpg?width=154&amp;height=77&amp;mode=stretch" alt="Conor Maynard returns with Storage: First Listen" loading="lazy">
+                                    </div>
+                                    <div class="text">Conor Maynard returns with Storage: First Listen</div>
+                                </a>
+                            </article>
+                        </li>
+
+            </ul>
+        </div>
+
+    </div>
+
+</section>
+
+
+
+        
+    <!-- Footer Links -->
+
+
+<footer class="site-footer">
+
+    <div class="footer-signup">
+    <form class="js-cm-form"
+          id="subForm"
+          method="post"
+          action="https://www.createsend.com/t/subscribeerror?description=mlltti"
+          data-id="92D4C54F0FEC16E5ADC2B1904DE9ED1A9BE0B32E31D006588C8817660D2A65F7C5181D1912F077C99F4E77DD55060A9757A2FECBE545A46D1CB692D0C7FF8B6D">
+
+        <label class="label" for="email">Sign up for the latest chart news</label>
+        <input class="input-email js-cm-email-input qa-input-email"
+               id="fieldEmailFooter"
+               type="email"
+               placeholder="your email"
+               required
+               name="cm-mlltti-mlltti">
+
+        <input class="input-signup" type="submit" value="sign up">
+    </form>
+    <p class="sidebar-newsletter--privacy-policy"><a href="/who-we-are/privacy-policy/" target="_blank">View privacy policy</a></p>
+</div>
+
+    <div class="footer-main">
+
+        <div class="inner-content">
+
+            <div class="grid">
+
+                <div class="grid__cell unit-1-3--desktop">
+                    <div class="logo"><a href="/"><img src="/img/header/logo.png" alt="" loading="lazy"></a></div>
+                    <div class="copyright">© The Official UK Charts Company 2023</div>
+                    <div class="social"></div>
+                </div>
+
+                <div class="grid__cell unit-2-3--desktop">
+                    <div class="grid">
+                        <nav class="footer-nav">
+                            <ul>
+                                    <li class="grid__cell unit-1-3--desktop unit-1-3--tablet">
+                                        <h3>Who we are</h3>
+                                        <ul>
+                                                        <li>
+                                                            <a href="/who-we-are/the-official-charts/">
+                                                                The Official Charts
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/who-we-are/history-of-the-official-charts/">
+                                                                History of the Official Charts
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/who-we-are/our-charts-and-data/">
+                                                                Our charts and data
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/who-we-are/official-charts-books/">
+                                                                Official Charts Books
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/who-we-are/contact-us/">
+                                                                Contact Us
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/who-we-are/our-partners/">
+                                                                Our partners
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/who-we-are/copyright-notice/">
+                                                                Copyright notice
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/who-we-are/privacy-policy/">
+                                                                Privacy Policy
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/who-we-are/cookie-policy/">
+                                                                Cookie Policy
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/who-we-are/jobs-section/">
+                                                                Jobs Section
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="javascript:window.__cmp('showConsentTool')">
+                                                                Consent Information
+                                                            </a>
+                                                        </li>
+                                        </ul>
+                                    </li>
+                                    <li class="grid__cell unit-1-3--desktop unit-1-3--tablet">
+                                        <h3>Getting into the charts</h3>
+                                        <ul>
+                                                        <li>
+                                                            <a href="/getting-into-the-charts/how-the-charts-are-compiled/">
+                                                                How the charts are compiled
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/getting-into-the-charts/releasing-your-music/">
+                                                                Releasing your music
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/getting-into-the-charts/registering-a-release/">
+                                                                Registering a release
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/getting-into-the-charts/meeting-the-chart-rules/">
+                                                                Meeting the chart rules
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/getting-into-the-charts/the-chart-retailers/">
+                                                                The chart retailers
+                                                            </a>
+                                                        </li>
+                                        </ul>
+                                    </li>
+                                    <li class="grid__cell unit-1-3--desktop unit-1-3--tablet">
+                                        <h3>Our business services</h3>
+                                        <ul>
+                                                        <li>
+                                                            <a href="/our-business-services/our-services/">
+                                                                Our services
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/our-business-services/b2b-data/">
+                                                                B2B data
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/our-business-services/chart-licensing/">
+                                                                Chart licensing
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/our-business-services/brand-licensing/">
+                                                                Brand licensing
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/our-business-services/advertising-on-officialchartscom/">
+                                                                Advertising on OfficialCharts.com
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/our-business-services/official-number-1-award/">
+                                                                Official Number 1 Award
+                                                            </a>
+                                                        </li>
+                                        </ul>
+                                    </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    </div>
+
+    <!-- Search Overlay -->
+    
+<!-- Search Overlay -->
+<section class="search-overlay">
+    <div class="inner-area">
+        <a href="" class="close icon-close"></a>
+        <nav class="tab-nav">
+            <ul>
+                <li><a href="" class="selected">Search</a></li>
+            </ul>
+        </nav>
+        <div class="tab-page selected">
+            <h3>Search the Charts</h3>
+            <div class="forms">
+                <form action="" class="search-form">
+                    <div class="field">
+                        <div class="select">
+                            <select name="Day" id="day-search-overlay">
+                                <option value="" selected>Day</option>
+                                    <option value="01">1</option>
+                                    <option value="02">2</option>
+                                    <option value="03">3</option>
+                                    <option value="04">4</option>
+                                    <option value="05">5</option>
+                                    <option value="06">6</option>
+                                    <option value="07">7</option>
+                                    <option value="08">8</option>
+                                    <option value="09">9</option>
+                                    <option value="10">10</option>
+                                    <option value="11">11</option>
+                                    <option value="12">12</option>
+                                    <option value="13">13</option>
+                                    <option value="14">14</option>
+                                    <option value="15">15</option>
+                                    <option value="16">16</option>
+                                    <option value="17">17</option>
+                                    <option value="18">18</option>
+                                    <option value="19">19</option>
+                                    <option value="20">20</option>
+                                    <option value="21">21</option>
+                                    <option value="22">22</option>
+                                    <option value="23">23</option>
+                                    <option value="24">24</option>
+                                    <option value="25">25</option>
+                                    <option value="26">26</option>
+                                    <option value="27">27</option>
+                                    <option value="28">28</option>
+                                    <option value="29">29</option>
+                                    <option value="30">30</option>
+                                    <option value="31">31</option>
+                            </select>
+                        </div>
+                        <div class="select">
+                            <select name="Month" id="month-search-overlay">
+                                <option value="" selected>Month</option>
+                                <option value="01">Jan</option>
+                                <option value="02">Feb</option>
+                                <option value="03">Mar</option>
+                                <option value="04">Apr</option>
+                                <option value="05">May</option>
+                                <option value="06">Jun</option>
+                                <option value="07">Jul</option>
+                                <option value="08">Aug</option>
+                                <option value="09">Sep</option>
+                                <option value="10">Oct</option>
+                                <option value="11">Nov</option>
+                                <option value="12">Dec</option>
+                            </select>
+                        </div>
+                        <div class="select">
+                            <select name="Year" id="year-search-overlay">
+                                <option value="" selected>Year</option>
+                                        <option value="2023">2023</option>
+                                        <option value="2022">2022</option>
+                                        <option value="2021">2021</option>
+                                        <option value="2020">2020</option>
+                                        <option value="2019">2019</option>
+                                        <option value="2018">2018</option>
+                                        <option value="2017">2017</option>
+                                        <option value="2016">2016</option>
+                                        <option value="2015">2015</option>
+                                        <option value="2014">2014</option>
+                                        <option value="2013">2013</option>
+                                        <option value="2012">2012</option>
+                                        <option value="2011">2011</option>
+                                        <option value="2010">2010</option>
+                                        <option value="2009">2009</option>
+                                        <option value="2008">2008</option>
+                                        <option value="2007">2007</option>
+                                        <option value="2006">2006</option>
+                                        <option value="2005">2005</option>
+                                        <option value="2004">2004</option>
+                                        <option value="2003">2003</option>
+                                        <option value="2002">2002</option>
+                                        <option value="2001">2001</option>
+                                        <option value="2000">2000</option>
+                                        <option value="1999">1999</option>
+                                        <option value="1998">1998</option>
+                                        <option value="1997">1997</option>
+                                        <option value="1996">1996</option>
+                                        <option value="1995">1995</option>
+                                        <option value="1994">1994</option>
+                                        <option value="1993">1993</option>
+                                        <option value="1992">1992</option>
+                                        <option value="1991">1991</option>
+                                        <option value="1990">1990</option>
+                                        <option value="1989">1989</option>
+                                        <option value="1988">1988</option>
+                                        <option value="1987">1987</option>
+                                        <option value="1986">1986</option>
+                                        <option value="1985">1985</option>
+                                        <option value="1984">1984</option>
+                                        <option value="1983">1983</option>
+                                        <option value="1982">1982</option>
+                                        <option value="1981">1981</option>
+                                        <option value="1980">1980</option>
+                                        <option value="1979">1979</option>
+                                        <option value="1978">1978</option>
+                                        <option value="1977">1977</option>
+                                        <option value="1976">1976</option>
+                                        <option value="1975">1975</option>
+                                        <option value="1974">1974</option>
+                                        <option value="1973">1973</option>
+                                        <option value="1972">1972</option>
+                                        <option value="1971">1971</option>
+                                        <option value="1970">1970</option>
+                                        <option value="1969">1969</option>
+                                        <option value="1968">1968</option>
+                                        <option value="1967">1967</option>
+                                        <option value="1966">1966</option>
+                                        <option value="1965">1965</option>
+                                        <option value="1964">1964</option>
+                                        <option value="1963">1963</option>
+                                        <option value="1962">1962</option>
+                                        <option value="1961">1961</option>
+                                        <option value="1960">1960</option>
+                                        <option value="1959">1959</option>
+                                        <option value="1958">1958</option>
+                                        <option value="1957">1957</option>
+                                        <option value="1956">1956</option>
+                                        <option value="1955">1955</option>
+                                        <option value="1954">1954</option>
+                                        <option value="1953">1953</option>
+                                        <option value="1952">1952</option>
+
+                            </select>
+                        </div>
+                        <button id="overlay-date-search" class="input-submit" type="submit">
+                            <span>Go</span>
+                        </button>
+                    </div>
+                </form>
+                <div class="or">or</div>
+                <form action="" class="search-form">
+                    <div class="field">
+                        <input id="overlay-title-search-text" class="input-text search-autocomplete" type="text" placeholder="Search single or album title" data-search-type="title" data-json-path="https://www.officialcharts.com/ArtistsApi/AutoFillProducts/">
+                        <button id="overlay-title-search" class="input-submit" type="submit">
+                            <span>Go</span>
+                        </button>
+                    </div>
+                </form>
+                <div class="or">or</div>
+                <form action="" class="search-form">
+                    <div class="field">
+                        <input id="overlay-artists-search-text" class="input-text search-autocomplete" type="text" placeholder="Search artists & news" data-search-type="artist" data-json-path="https://www.officialcharts.com/ArtistsApi/AutoFillArtists/">
+                        <button id="overlay-artists-search" class="input-submit" type="submit">
+                            <span>Go</span>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+    <!-- javascript -->
+    <script src="/Scripts/libs/jquery-1.11.1.min.js"></script>
+    <script src="/Scripts/libs/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="/Scripts/plugins/plugins.min.js"></script>
+    <script src="/Scripts/plugins/appear.min.js"></script>
+    <script src="/Scripts/script.min.js"></script>
+    <script src="/Scripts/custom.min.js"></script>
+
+    
+
+    
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+
+    _gaq.push(['_setAccount', 'UA-11584073-1']);
+
+        _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+
+
+    
+
+
+<script type="text/javascript">
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "16171501", c3: "", c4: "" });
+
+        (function () {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+            s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+</script>
+<noscript>
+    <img src="https://b.scorecardresearch.com/p?c1=2&c2=16171501&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" />
+</noscript>
+
+    <script src="https://cdn.tagdeliver.com/cipt/17187.js" async="async"></script>
+</body>
+</html>

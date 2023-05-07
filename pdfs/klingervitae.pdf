@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '{390989017904498}');
+	fbq('track', 'PageView');
+	</script>
+	<noscript>
+	<img height="1" width="1" style="display:none" 
+	src="https://www.facebook.com/tr?id={390989017904498}&ev=PageView&noscript=1"/>
+	</noscript>
+	<!-- End Facebook Pixel Code -->
+	<link href="https://www.umsl.edu/files/images/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
+	<link href="https://www.umsl.edu/files/images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+	<link href="https://www.umsl.edu/files/images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+	<link href="https://www.umsl.edu/files/images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+	<link href="https://www.umsl.edu/files/images/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60">
+	<link href="https://www.umsl.edu/files/images/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+	<link href="https://www.umsl.edu/files/images/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+	<link href="https://www.umsl.edu/files/images/xapple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+	<link href="https://www.umsl.edu/files/images/favicon-196x196.png" rel="icon" sizes="196x196" type="image/png">
+	<link href="https://www.umsl.edu/files/images/favicon-160x160.png" rel="icon" sizes="160x160" type="image/png">
+	<link href="https://www.umsl.edu/files/images/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
+	<link href="https://www.umsl.edu/files/images/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+	<link href="https://www.umsl.edu/files/images/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+	<meta content="US" name="Organization-Country-Code">
+	<meta content="St. Louis" name="City">
+	<meta content="United States" name="Country">
+	<meta content="Global" name="distribution">
+	<meta content="38.707125;-90.311355" name="geo.position">
+	<meta content="38.707125;-90.311355" name="ICBM">
+	<meta content="University of Missouri - St. Louis - All Rights Reserved." name="copyright">
+	<meta content="en" http-equiv="Content-Language">
+	<link href="https://www.umsl.edu/files/errors/error.css" rel="stylesheet" type="text/css">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<meta content="o3OYMGKJwl80gleyTm0xvyMtdYJlxuqQiErJrDVnryE" name="google-site-verification">
+	<meta content="https://www.umsl.edu/files/images/twitter-card.jpg" name="twitter:image">
+	<meta content="https://www.umsl.edu/files/images/twitter-card.jpg" property="og:image">
+	<meta content="width=device-width,minimum-scale=1,initial-scale=1,user-scalable=no" name="viewport">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<meta content="o3OYMGKJwl80gleyTm0xvyMtdYJlxuqQiErJrDVnryE" name="google-site-verification">
+	<!-- ========================================== TWITTER META TAGS ========================================== -->
+	<meta content="summary_large_image" name="twitter:card">
+	<meta content="@umsl" name="twitter:site">
+	<meta content="UMSL" name="twitter:title">
+	<meta content="Choose UMSL - the University of Missouri-St. Louis" name="twitter:description">
+	<meta content="https://www.umsl.edu/files/images/twitter-card.jpg" name="twitter:image">
+	<meta content="Serious Education. Serious Value. education at a serious value." name="twitter:image:alt">
+	<!-- ========================================== FACEBOOK META TAGS ========================================== -->
+	<meta content="https://www.umsl.edu" property="og:url">
+	<meta content="Choose UMSL - the University of Missouri-St. Louis" property="og:description">
+	<meta content="https://www.umsl.edu/files/images/twitter-card.jpg" property="og:image">
+	<!-- ========================================================================================================== -->
+	<title>
+	University of Missouri&ndash;St. Louis
+	</title>
+	<meta content="UMSL, umsl tuition, university of missouri saint louis, university of missouri st louis, university of missouri college of education, university of missouri tuition, university missouri saint louis, university of missouri st louis mo, umsl university, um-st. louis, umsl st louis, university of missouri admissions, university of mo st louis, missouri st louis university, umsl courses, university of missouri business, missouri university st louis, saint louis missouri university, umsl financial aid, missouri state university st louis, university of missouri st louis nursing, university of missouri location, umsl school of nursing, umsl course catalog, umsl biology, umsl course schedule, umsl mo, umsl nursing, umsl nursing school, umsl nursing program, umsl campus, umsl admissions, umsl chemistry, umsl career services, umsl missouri, umsl college of education, umsl radio, umsl music, university of missouri college of business administration, university of missouri st louis college of business administration, university of mo college of business administration, umsl college of business administration," name="keywords">
+	<meta content="The University of Missouri St. Louis delivers exceptional educational, research and engagement experiences that inform, prepare, challenge and inspire." name="description">
+	<link href="https://www.umsl.edu/files/css/redesign/bootstrap-secondary.css" rel="stylesheet" type="text/css"/>
+	<link href="https://www.umsl.edu/files/css/redesign/umsl-main-secondary1.css" rel="stylesheet" type="text/css"/>
+	<link href="https://www.umsl.edu/files/css/redesign/umsl-main.css" rel="stylesheet" type="text/css"/>
+	<link href="https://www.umsl.edu/new-home/new-umsl-home.css" rel="stylesheet" type="text/css"/>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.0/animate.min.css" rel="stylesheet" type="text/css"/>
+	<!-- IE8 MEDIA QUERY FIXING SCRIPT -->
+	<script src="./umsl-files/respond.min.js" type="text/javascript"></script>
+	</head>
+	<body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+	<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KR3J57" style="display:none;visibility:hidden" width="0"></iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<a class="screen-reader-shortcut" href="https://www.umsl.edu/#main-content" id="main-content" role="main">Skip to main content</a>
+	<div class="hidden-sm hidden-xs" id="sticky-navbar" style="top: 0px;">
+	<nav class="navbar navbar-inverse hidden-sm hidden-xs hidden-lg" id="navbar-header">
+	<div class="container" id="sticky-main-container">
+	<div id="sticky-hidden">
+	<div class="col-md-3" id="umsl-logo-container">
+	<a href="https://www.umsl.edu/" title="UMSL">
+	<img alt="UMSL Logo" class="umsl-logo-header" src="https://www.umsl.edu/umsl-logo.jpg">
+	</a>
+	<div aria-hidden="true" class="logo-line"></div>
+	<h5 id="site-name">
+	<a href="https://www.umsl.edu/index.html">University of Missouri&ndash;St. Louis</a>
+	</h5>
+	</div>
+	<div id="stickymyDIV" onclick="myFunction()">
+	<a class="button button-ghost-red" href="https://www.umsl.edu/admissions/applications.html" id="apply-sticky" title="Apply Now">Apply Now</a>
+	<a class="button button-ghost-red" href="https://www.umsl.edu/admissions/inquiry.html" id="request-info-sticky" title="Request Info">Request Info</a>
+	<a class="button button-ghost-red" href="https://giving.umsl.edu/s/260/35-development/giving/start.aspx" id="give-sticky" title="Give">Give</a>
+	</div>
+	<div class="openBtn" id="stickywrap" onclick="openSearch()">
+	<em class="fa fa-search"></em>
+	</div>
+	</div>
+	</div>
+	</nav>
+	</div>
+	<nav class="hidden-sm hidden-xs" id="top-tac-nav">
+	<div class="container" id="main-site-title">
+	    <a href="https://www.umsl.edu" title="University of Missouri–St. Louis" id="umsl-full-name">University of Missouri–St. Louis</a>
+	<style>
+	.dropdown-menu li a:hover{color:#444;}
+	</style>
+	<div style="float: right;">
+	<ul class="tac-top-menu">
+	<li>
+	<a class="top-link" href="https://www.umsl.edu/current/index.html" title="Current Students">Current Students</a>
+	</li>
+	</ul>
+	<ul class="tac-top-menu">
+	<li>
+	<a class="top-link" href="https://www.umsl.edu/degrees/index.html" title="Majors and Degrees">Majors and Degrees</a>
+	</li>
+	</ul>
+	<ul class="tac-top-menu">
+	<li>
+	<a class="top-link" href="https://www.umsl.edu/facstaff/index.html" title="Faculty and Staff">Faculty and Staff</a>
+	</li>
+	</ul>
+	<ul class="tac-top-menu">
+	<li>
+	<a class="top-link" href="https://www.umsl.edu/admissions/explore-visit/index.html" title="Visit Campus">Visit Campus</a>
+	</li>
+	</ul>
+	<ul class="tac-top-menu">
+	<li class="dropdown" id="top-links">
+	<a class="dropdown-toggle" data-toggle="dropdown" href="https://www.umsl.edu/#" title="Quick Links">Quick Links
+
+
+
+
+
+	<span class="caret"></span>
+	</a>
+	<ul class="dropdown-menu">
+	<li id="top-buttons">
+		<a href="https://calendar.umsl.edu/" title="Campus Calendar">Campus Calendar</a>
+	</li>
+	<li id="top-buttons">
+		<a href="https://access.myview.umsl.edu/psp/prdpa/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?&amp;AITS_HDR_CODE=2" title="Course Schedule">Course Schedule</a>
+	</li>
+	<li id="top-buttons">
+		<a href="https://www.umsl.edu/maps.html" title="Maps">Maps</a>
+	</li>
+	<li id="top-buttons">
+		<a href="https://www.umslalumni.org/s/260/alumni/start.aspx?gid=1001&amp;pgid=61" title="Alumni">Alumni</a>
+	</li>
+	<li id="top-buttons">
+		<a href="https://www.umsl.edu/directory/index.html" title="Directories">Directories</a>
+	</li>
+	<li id="top-buttons">
+		<a href="https://www.umsl.edu/index-a-z.html" title="A-Z Index">A-Z Index</a>
+	</li>
+	</ul>
+	</li>
+	</ul>
+	</div>
+	</div>
+	</nav>
+	<nav class="navbar navbar-inverse hidden-sm hidden-xs" id="navbar-header">
+	<div class="container" id="main-container">
+	<!--This is the logo container  -->
+	<div id="top-hidden">
+	<div class="col-md-3" id="umsl-logo-container">
+	<a href="https://www.umsl.edu/" title="UMSL">
+	<img alt="UMSL Logo" class="umsl-logo-header" src="https://www.umsl.edu/umsl-logo.jpg">
+	</a>
+	<div aria-hidden="true" class="logo-line"></div>
+	<h5 id="site-name">
+	<a href="https://www.umsl.edu/index.html" title="University of Missouri-St. Louis">
+	University of Missouri&ndash;St. Louis</a>																																																						</h5>
+	</div>
+	<div class="nav navbar-nav" id="myDIV" style="margin-right: 15px">
+	<div class="top-buttons">
+	<a class="button button-ghost-red" href="https://www.umsl.edu/admissions/applications.html" id="apply-top" title="Apply Now">Apply Now</a>
+	<a class="button button-ghost-red" href="https://www.umsl.edu/admissions/inquiry.html" id="request-info-top" title="Request Info">Request Info</a>
+	<a class="button button-ghost-red" href="https://giving.umsl.edu/s/260/35-development/giving/start.aspx" id="give-top" title="Give">Give</a>
+	</div>
+	</div>
+	</div>
+	<div class="openBtn" id="wrap" onclick="openSearch()">
+	<em class="fa fa-search"></em>
+	</div>
+	</div>
+	</nav>
+	<nav class="visible-sm navbar navbar-inverse sticky" id="mobile-nav" role="navigation">
+	<div class="container">
+	<div class="col-md-3 clearfix">
+	<a href="https://www.umsl.edu/" title="UMSL Home">
+	<img alt="UMSL Logo" class="umsl-logo-header" src="https://www.umsl.edu/umsl-logo.jpg">
+	</a>
+	<div aria-hidden="true" class="logo-line"></div>
+	<h5 id="site-name">
+	<a href="https://www.umsl.edu/index.html" title="University of Missouri-St. Louis">University Of Missouri&ndash;St. Louis</a>
+	</h5>
+	</div>
+	<em class="fa fa-search openBtn" id="mobilewrap" onclick="openSearch()"></em>
+	<i class="fa fa-bars" id="open-menu" onclick="openNav()"></i>
+	</div>
+	</nav>
+	<div class="visible-xs col-lg-6 col-md-5">
+	<div class="logo-container clearfix">
+	<div id="small-logo-bar">
+	<a href="https://www.umsl.edu/" title="UMSL">
+	<b>UMSL</b>
+	</a>
+	<a class="small-site-name" href="https://www.umsl.edu/index.html" title="University Of Missouri-St. Louis">| University Of Missouri&ndash;St. Louis</a>
+	<i class="fa fa-bars" id="open-menu" onclick="openNav()"></i>
+	<em class="fa fa-search" id="small-search" onclick="openSearch()"></em>
+	</div>
+	</div>
+	</div>
+	<div class="visible-xs visible-sm sidenav" id="mySidenav" style="width: 0px;">
+	<div id="mobile-menu">
+	<div class="navbar-header">
+	<div class="container-fluid">
+	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">x</a>
+	</div>
+	</div>
+	<div class="card-header" id="headingCollapseFirst">
+	<button class="btn btn-quick collapsed" data-toggle="collapse" data-target="#collapseFirst" aria-expanded="false" aria-controls="collapseFirst">
+	Quick Links&nbsp;
+
+
+
+
+
+	<i class="fa fa-caret-down"></i>
+	</button>
+	</div>
+	<div id="collapseFirst" class="collapse" aria-labelledby="collapseFirst" data-parent="#mobile-menu">
+	<div class="card-body">
+	<ul class="list-group">
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/current/index.html">Current Students</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/degrees/index.html">Majors and Degrees</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/facstaff/index.html">Faculty &amp; Staff</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/admissions/applications.html">Apply Now</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/admissions/inquiry.html">Request Info</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://giving.umsl.edu/s/260/35-development/giving/start.aspx">Give</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/admissions/explore-visit/index.html">Visit Campus</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://calendar.umsl.edu/">Campus Calendar</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://access.myview.umsl.edu/psp/prdpa/EMPLOYEE/SA/c/COMMUNITY_ACCESS.CLASS_SEARCH.GBL?&amp;AITS_HDR_CODE=2">Course Schedule</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/maps.html">Maps</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umslalumni.org/s/260/alumni/start.aspx?gid=1001&amp;pgid=61">Alumni</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/directory/index.html">Campus Directory</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/index-a-z.html">A-Z Index</a>
+		</li>
+	</ul>
+	</div>
+	</div>
+	<div class="card-header" id="headingOne">
+	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+	About UMSL&nbsp;
+
+
+
+
+
+	<i class="fa fa-caret-down"></i>
+	</button>
+	</div>
+	<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#mobile-menu">
+	<div class="card-body">
+	<ul class="list-group">
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/proud/index.html">About Us</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://apply.umsl.edu/portal/Virtual-Visits">Virtual Tour</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://blogs.umsl.edu/news/">Newsroom</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/recd">Research</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/~libweb/">Libraries</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/services/odei/">Diversity</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/chancellor/">Chancellor</a>
+		</li>
+	</ul>
+	</div>
+	</div>
+	<div class="card-header" id="headingTwo">
+	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+	Admissions&nbsp;
+
+
+
+
+
+	<i class="fa fa-caret-down"></i>
+	</button>
+	</div>
+	<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#mobile-menu">
+	<div class="card-body">
+	<ul class="list-group">
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/admissions/index.html">Admissions</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/degrees/index.html">Majors and Degrees</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/sfs/index.html">Financial Aid</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/admissions/first-year-student/index.html">First-Year Student</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/admissions/transfer/index.html">Transfer</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/admissions/graduate/index.html">Graduate</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/admissions/international/index.html">International</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/continuinged/acp/">Advanced Credit Program</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/admissions/explore-visit/index.html">Visit Campus</a>
+		</li>
+	</ul>
+	</div>
+	</div>
+	<div class="card-header" id="headingThree">
+	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+	Triton Experience&nbsp;
+
+
+
+
+
+	<i class="fa fa-caret-down"></i>
+	</button>
+	</div>
+	<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#mobile-menu">
+	<div class="card-body">
+	<ul class="list-group">
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/academics/index.html">Academics</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/studentinvolvement/">Student Involvement</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/services/reslife/">Residential Life</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/newstudentprograms/index.html">New Student Programs</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/depts/career/">Career Services </a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsltritons.com/">Athletics</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/hcdas/index.html">Health, Counseling, Disability Access</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/veterans/">Veterans</a>
+		</li>
+	</ul>
+	</div>
+	</div>
+	<div class="card-header" id="headingFour">
+	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+	Community&nbsp;
+
+
+
+
+
+	<i class="fa fa-caret-down"></i>
+	</button>
+	</div>
+	<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#mobile-menu">
+	<div class="card-body">
+	<ul class="list-group">
+		<li class="list-group-item">
+			<a href="https://www.umslalumni.org/s/260/alumni/start.aspx?gid=1001&amp;pgid=61">Alumni Engagement</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/recd/economic-and-community-development/index.html">Community Engagement</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/academics/centers-institutes.html">Centers and Institutes</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/services/hrs/careers/index.html">Careers</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.touhill.org/">Touhill Performing Arts Center</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/eventservices/">Event Services</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/precollegiate/">Bridge Program</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/staysafe/safety-expectations.html">Campus Safety</a>
+		</li>
+	</ul>
+	</div>
+	</div>
+	<div class="card-header" id="headingFive">
+	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+	Colleges &amp; Schools&nbsp;
+
+
+
+
+
+	<i class="fa fa-caret-down"></i>
+	</button>
+	</div>
+	<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#mobile-menu">
+	<div class="card-body">
+	<ul class="list-group">
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/divisions/artscience/">Arts and Sciences</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/divisions/business/">Business Administration</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://coe.umsl.edu/w2/index.cfm">Education</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/divisions/engineering/">Engineering</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/gradschool/">Graduate School</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/honors/index.html">Honors College</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/~nursingweb/">Nursing</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/divisions/optometry/index.html">Optometry</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://www.umsl.edu/socialwork/">Social Work</a>
+		</li>
+	</ul>
+	</div>
+	</div>
+	<div class="card-header" id="headingSix">
+	<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+	Athletics
+
+
+
+
+
+	<i class="fa fa-caret-down"></i>
+	</button>
+	</div>
+	<div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#mobile-menu">
+	<div class="card-body">
+	<ul class="list-group">
+		<li class="list-group-item">
+			<a href="https://umsltritons.com/">Triton Athletics</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://umsltritons.com/calendar">Full Athletic Schedule</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://umsltritons.com/sports/2012/11/26/tickets.aspx">Tickets</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://umsltritons.com/sports/2012/11/20/directions.aspx">Athletic Facility Directions</a>
+		</li>
+		<li class="list-group-item">
+			<a href="https://sideline.bsnsports.com/schools/missouri/st.louis/university-of-missouri--st.-louis">Louie's Locker</a>
+		</li>
+	</ul>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="overlay" id="myOverlay">
+	<span class="closebtn" onclick="closeSearch()" title="Close Overlay">�</span>
+	<div class="overlay-content">
+	<div class="search-form">
+	<form action="https://www.umsl.edu/search.html" id="search-box-overlay" method="get" name="search-box-overlay">
+	<input aria-describedby="search" aria-label="Search UMSL.edu" name="q" placeholder="Search UMSL.edu" type="text">
+		<div class="input-group-append">
+			<button class="submit-button" form="search-box-overlay" id="search-overlay" type="submit" value="Submit">
+				<i class="fa fa-search" id="search-overlay"></i>
+			</button>
+		</div>
+	</form>
+	</div>
+	<div class="common-search-heading">
+	<h3 class="content-subhead text-white">Common Searches</h3>
+	</div>
+	<div class="col-md-8 search-list no-pad-left">
+	<div class="list-group">
+		<a class="list-group-item" href="https://www.umsl.edu/staysafe/index.html" title="Where can I find information pertaining to the University�s policy regarding COVID-19?">Where can I find information pertaining to the University's policy regarding COVID-19?</a>
+		<a class="list-group-item" href="https://www.umsl.edu/degrees/index.html" title="What majors does UMSL offer? ">What majors does UMSL offer?</a>
+		<a class="list-group-item" href="https://canvas.umsystem.edu/" title="Where can I sign in to Canvas? ">Where can I sign in to Canvas?</a>
+		<a class="list-group-item" href="https://myview.umsl.edu/" title="What courses are offered this semester?">What courses are offered this semester?</a>
+		<a class="list-group-item" href="https://www.umsl.edu/technology/tsc/" title="How can I get IT help?">How can I get IT help?</a>
+		<a class="list-group-item" href="https://www.umsl.edu/registration/transcript-request.html" title="How do I request a transcript?">How do I request a transcript?</a>
+		<a class="list-group-item" href="https://www.umsl.edu/registration/students/add-drop-change.html" title="How do I add or drop a class?">How do I add or drop a class?</a>
+		<a class="list-group-item" href="https://www.umsl.edu/~academicadvising/Who.html" title="Who is my advisor?">Who is my advisor?</a>
+	</div>
+	</div>
+	<div class="col-md-4 search-list short-list no-pad-left">
+	<div class="list-group">
+		<a class="list-group-item link" href="https://www.umsl.edu/admissions/index.html" title="UMSL Admissions Office">Admissions</a>
+		<a class="list-group-item link" href="https://www.umsl.edu/sfs/billing-payment/index.html" title="Pay Tuition">Pay Tuition</a>
+		<a class="list-group-item link" href="https://www.umsl.edu/sfs/index.html" title="UMSL Office of Financial Aid">Financial Aid</a>
+		<a class="list-group-item link" href="https://www.umsl.edu/sfs/scholarships-grants/index.html" title="UMSL Scholarships and Grants">Scholarships and Grants</a>
+		<a class="list-group-item link" href="https://www.umslalumni.org/" title="UMSL Alumni and Giving">Alumni and Giving</a>
+		<a class="list-group-item link" href="https://umsltritons.com/" title="Athletics">Athletics</a>
+		<a class="list-group-item link" href="https://www.umsl.edu/admissions/explore-visit/index.html" title="Visit Campus">Visit Campus</a>
+		<a class="list-group-item link" href="https://www.umsl.edu/services/hrs/careers/index.html" title="Careers at UMSL">Careers at UMSL</a>
+	</div>
+	</div>
+	</div>
+	</div>
+	<a href="https://www.umsl.edu/#" id="back2Top" title="Back to top" style="display: inline;">
+	<span class="fa fa-chevron-up"></span>
+	</a>
+	<div class="fade-bg">
+	<div class="background">
+
+	<div class="container">
+	<div class="col-md-6">
+
+		<div class="shadows content-container">
+			<div id="content">
+				<!--<div id="main-quote"></div>-->
+				<h2 class="text-red" style="font-size:50px;font-weight:bold">404</h2>
+				
+				<h3 class="h3" style="font-weight: bold;
+	font-size: 25px;
+	margin-top: 0px;">Page Not Found</h3>
+				<p>The page you're looking for does not exist.<br>
+	                Visit the homepage or try a search.
+					</p>
+					<div id="error-search" class="form-group">
+					    <form action="https://www.umsl.edu/search.html"method="get">
+
+						<div class="input-group">
+							<input placeholder="Search UMSL.edu" type="text" class="form-control input-lg">
+								<div class="input-group-btn input-lg">
+									<button class="btn btn-default search-icon">
+										<i class="fa fa-search"></i>
+									</button>
+								</div>
+							</div>
+							</form>
+						</div>
+						<div class="col-md-12 link-container">
+							<a href="https://www.umsl.edu/directory/index.html" title="Campus Directory" class="links">Campus Directory | </a>
+							<a href="https://calendar.umsl.edu/" title="Campus Calendar" class="links">Campus Calendar | </a>
+							<a href="https://www.umsl.edu/index-a-z.html" title="A-Z Directory" class="links">A-Z Directory</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="s1">
+					<div id="quote-container">
+						<div id="main-quote"></div>
+						<div id="main-name"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<!--footer-->
+	<footer class="umsl-footer">
+	<div class="container">
+	<div class="row">
+	<!-- row -->
+	<div class="col-lg-5 col-md-5">
+	<!-- list column left -->
+	<div class="logo pull-left">
+	<div class="footer-logo" onclick="location.href=&#39;https://www.umsl.edu&#39;" title="UMSL Home"></div>
+	</div>
+	<!--END LOGO-->
+	<div class="logo-line"></div>
+	<span class="fullname">University Of Missouri&ndash;St. Louis</span>
+	<div class="clearfix"></div>
+	<div class="row">
+	<div class="col-md-12">
+	<address>
+	<a href="https://www.google.com/maps?daddr=38.711088,-90.309045" style="color: #444;" target="_blank">
+	<span class="college-address">1 University Blvd.</span>
+	<br> St. Louis, MO 63121-4400
+	</a>
+	</address>
+	</div>
+	<div class="col-md-5">
+	<small>
+	<strong>Office Number:</strong>
+	</small>
+	<span class="phone">(314) 516-5000</span>
+	</div>
+	<br>
+	<div class="col-md-5">
+	<small>
+	<strong>Admissions Toll-Free</strong>
+	</small>
+	<span class="phone">(888) GO-2-UMSL</span>
+	</div>
+	</div>
+	<div class="social-icons">
+	<ul>
+	<li>
+	<a class="icons-sm ins-ic fa-2x" href="https://www.facebook.com/UMSL.edu" target="_blank" title="Visit UMSL on Facebook">
+	<i aria-hidden="true" class="fa fa-facebook" title="Visit UMSL on Facebook"></i>
+	</a>
+	</li>
+	<li>
+	<a class="icons-sm ins-ic fa-2x" href="https://www.twitter.com/umsl" target="_blank" title="Visit UMSL on Twitter">
+	<i aria-hidden="true" class="fa fa-twitter"></i>
+	</a>
+	</li>
+	<li>
+	<a class="icons-sm ins-ic fa-2x" href="https://www.instagram.com/umsl/" target="_blank" title="Visit UMSL on Instagram">
+	<i class="fa fa-instagram"></i>
+	</a>
+	</li>
+	<li>
+	<a class="icons-sm ins-ic fa-2x" href="https://www.linkedin.com/school/university-of-missouri---st.-louis/" target="_blank" title="Visit UMSL on LinkedIn">
+	<i class="fa fa-linkedin"></i>
+	</a>
+	</li>
+	<li>
+	<a class="icons-sm ins-ic fa-2x" href="http://www.umsl.edu/~umslmobile/" title="Download UMSL Mobile">
+	<i class="fa fa-mobile"></i>
+	</a>
+	</li>
+	<li>
+	<a class="icons-sm ins-ic fa-2x" href="https://calendar.umsl.edu/" title="UMSL Campus Calendar">
+	<i class="fa fa-calendar"></i>
+	</a>
+	</li>
+	</ul>
+	</div>
+	</div>
+	<!-- list column left end -->
+	<div class="col-lg-4 col-md-4">
+	<!-- widgets column left -->
+	<ul class="list-unstyled clear-margins">
+	<!-- list -->
+	<li class="list-container list_nav_menu">
+	<div class="row">
+	<h1 class="footer-title">Academic Units</h1>
+	<div class="col-lg-6 col-sm-6">
+	<!--footer list -->
+	<ul class="pull-left">
+	<li>
+	<a href="https://www.umsl.edu/divisions/artscience/" title="Arts and Sciences">Arts and Sciences</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/divisions/business/" title="Business Administration">Business Administration</a>
+	</li>
+	<li>
+	<a href="https://coe.umsl.edu/w2/index.cfm" title="Education">Education</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/divisions/engineering/" title="Engineering">Engineering</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/gradschool/" title="Graduate School">Graduate School</a>
+	</li>
+	</ul>
+	</div>
+	<div class="col-lg-6 col-sm-6">
+	<ul class="pull-left">
+	<li>
+	<a href="https://www.umsl.edu/honors/index.html" title="Honors College">Honors College</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/~nursingweb/" title="Nursing">Nursing</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/divisions/optometry/" title="Optometry">Optometry</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/socialwork/" title="Social Work">Social Work</a>
+	</li>
+	</ul>
+	</div>
+	</div>
+	</li>
+	</ul>
+	</div>
+	<!-- list column left end -->
+	<div class="col-lg-3 col-md-3">
+	<!-- list column left -->
+	<ul class="list-unstyled clear-margins">
+	<!-- list -->
+	<li class="list-container list_nav_menu">
+	<div class="row">
+	<h1 class="footer-title">Administration</h1>
+	<div class="col-md-12">
+	<ul>
+	<li>
+	<a href="https://www.umsl.edu/services/academic/" title="Academic Affairs">
+	<i class="fa fa-chevron" style="font-style: normal;"></i>Academic Affairs 
+	</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/chancellor/" title="Chancellor">Chancellor</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/services/fa/" title="Finance and Administration">Finance and Administration</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/services/hrs/" title="Human Resources">Human Resources</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/technology/" title="Information Technology">Information Technology</a>
+	</li>
+	<li>
+	<a href="https://www.umsl.edu/recd/" title="Research">Research</a>
+	</li>
+	<li>
+	<a href="https://giving.umsl.edu/" title="University Advancement">University Advancement</a>
+	</li>
+	</ul>
+	</div>
+	</div>
+	</li>
+	</ul>
+	</div>
+	</div>
+	<div class="row">
+	<div class="rule"></div>
+	<div class="col-md-1 col-sm-1 no-pad" style="padding: 5px;">
+	<a alt="UM System" href="https://www.umsystem.edu/" title="UM System">
+	<img alt="University of Missouri System Seal" class="seal" src="https://www.umsl.edu/files/images/seal-footer.png" width="75">
+	</a>
+	</div>
+	<div class="col-md-11 col-sm-11">
+	<div class="copyright-line">
+	<p>
+	&copy;
+	<script>new Date().getFullYear()>2017&&document.write(new Date().getFullYear());</script> 
+	<a href="https://www.umsystem.edu/" title="Curators of the University of Missouri">Curators of the University of Missouri</a> | 
+	<a href="https://www.umsl.edu/hcdas/das/index.html" title="Disability Resources">Disability Resources</a> | 
+	<a alt="privacy policy" href="https://www.umsystem.edu/ums/copyright/" title="DMCA Policy">DMCA Policy</a> | 
+	<a alt="privacy policy" href="https://www.umsl.edu/privacy-policy.html" title="Privacy Policy">Privacy Policy</a>
+	<br>
+	UMSL is an equal opportunity/access/affirmative action/pro-disability and veteran employer and does not discriminate on the basis of sex in our education programs or activities, pursuant to Title IX and 34 CFR Part 106. For more information, visit our 
+	<a href="https://www.umsl.edu/title-ix/nondiscrimination-statement.html">UMSL Statement of Nondiscrimination.</a>
+	</p>
+	<a href="https://www.umsl.edu/choose/" id="footer-choose-umsl" title="Serious Education. Serious Value.">
+	<h4>
+	<em>Serious Education. Serious Value. &#8480;</em>
+	</h4>
+	</a>
+	</div>
+	</div>
+	</div>
+	</div>
+	</footer>
+	
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+	<script src="https://www.umsl.edu/new-home/new-umsl-main.js" type="text/javascript"></script>
+		<script src="https://unpkg.co/gsap@3/dist/gsap.min.js"></script>
+		<script src="https://www.umsl.edu/files/errors/_error-js/quote.js"></script>
+	

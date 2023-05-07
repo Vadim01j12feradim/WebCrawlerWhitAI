@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta property="og:determiner" content="auto" />
+<meta property="og:site_name" content="European Commission" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://commission.europa.eu/profiles/contrib/ewcms/modules/ewcms_seo/assets/images/ec-socialmedia-fallback.png" />
+<meta property="og:image:alt" content="European Commission" />
+<meta name="twitter:image:alt" content="European Commission" />
+<meta name="twitter:image" content="https://commission.europa.eu/profiles/contrib/ewcms/modules/ewcms_seo/assets/images/ec-socialmedia-fallback.png" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<script type="application/json">{"utility":"piwik","siteID":"0ccd2154-5091-4eff-83f3-1b423f81600c","sitePath":["commission.europa.eu"],"is404":true,"instance":"ec"}</script>
+<script type="application/json">{"utility":"cck"}</script>
+<script type="application/json">{"service":"laco","include":"#block-ewcms-theme-main-page-content .ecl","coverage":{"document":"false","page":"false"},"icon":"all","exclude":".nolaco, .ecl-file, .ecl-content-item__title","ignore":["filename=([A-Za-z0-9\\-\\_]+)_([A-Za-z]{2}).pdf"]}</script>
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/profiles/contrib/ewcms/themes/ewcms_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Page not found | European Commission</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_9m8-tA3IQf8ThlLQYTTZUyEweCvyR908Tg0XCbKYOfY.css" />
+<link rel="stylesheet" media="screen" href="/sites/default/files/css/css_QErGu3S0_TtmEjdhY6unh3CXhWKCK9mhyT6viCAKk5Y.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_5DX_pp0QRZpb6KcgnQHtAhDXfxkbu8FNFZzMBIiaJL4.css" />
+<link rel="stylesheet" media="screen" href="/sites/default/files/css/css_2GfyolSO7k8zBFlBObZXykQazc1t19ZiTATcuKHh1HQ.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_zhHjfJMtFAOoXr6BCrP8usCMJ3uawQ4Qw-WHbcgEH6M.css" />
+<link rel="stylesheet" media="screen" href="/sites/default/files/css/css_0e-QJtDZtsd1wTatCjkAKJyyy7-iAe8SQNYC-4WM47Q.css" />
+
+    
+  </head>
+  <body class="language-en ecl-typography path-strategy">
+        <a href="#main-content" class="ecl-skip-link"  id="skip-id">Skip to main content</a>
+
+        <div id="cck_here"></div>    <script type="application/json">{"utility":"globan","theme":"dark","logo":true,"link":true,"mode":false}</script>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <header
+  class="ecl-site-header"
+  data-ecl-auto-init="SiteHeader"
+  >
+  
+      <div class="ecl-site-header__container ecl-container">
+      <div class="ecl-site-header__top">
+            <a
+    class="ecl-link ecl-link--standalone ecl-site-header__logo-link"
+    href="https://commission.europa.eu/index_en"
+    aria-label="Home - European Commission"
+  >
+          <img
+        alt="European Commission logo"
+        title="European Commission"
+        class="ecl-site-header__logo-image ecl-site-header__logo-image-desktop"
+        src="/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg"
+      />
+      </a>
+
+
+        <div class="ecl-site-header__action">
+            <a
+  class="ecl-button ecl-button--ghost  ecl-site-header__language-selector"
+  href="https://commission.europa.eu/error/404_en"
+  data-ecl-language-selector
+  aria-controls="language-list-overlay"
+  aria-expanded="false"
+><span class="ecl-site-header__language-icon"><svg
+  class="ecl-icon ecl-icon--s ecl-site-header__icon"
+  focusable="false"
+  aria-hidden="true"
+  ><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#language"></use></svg><span class="ecl-site-header__language-code">en</span></span>English</a><div class="ecl-language-list ecl-language-list--overlay" data-ecl-language-list-overlay aria-labelledby="ecl-language-list__title" role="dialog" aria-labelledby="ecl-language-list__title" role="dialog" hidden ><div class="ecl-language-list__container ecl-container"><div class="ecl-language-list--overlay__header"><div class="ecl-language-list__close ecl-col-12 ecl-col-l-8 ecl-col-m-11 ecl-offset-l-2"><button class="ecl-button ecl-button--ghost ecl-language-list__close-button" type="submit"  data-ecl-language-list-close><span class="ecl-button__container"><span class="ecl-button__label" data-ecl-label="true">Close</span><svg
+  class="ecl-icon ecl-icon--s ecl-button__icon ecl-button__icon--after"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#close"></use></svg></span></button></div><div
+        class="ecl-language-list__title ecl-col-12 ecl-col-l-8 ecl-offset-l-2 ecl-col-m-11 ecl-offset-m-1"
+        id="ecl-language-list__title"
+      ><svg
+  class="ecl-icon ecl-icon--m ecl-language-list__title-icon"
+  focusable="false"
+  aria-hidden="true"
+  ><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#generic-lang"></use></svg>Select your language</div></div><div class="ecl-row ecl-language-list__eu"><div class="ecl-language-list__category ecl-col-12 ecl-col-l-8 ecl-offset-l-2 ecl-col-m-11 ecl-offset-m-1"></div><div class="ecl-language-list__column ecl-col-12 ecl-col-l-4 ecl-offset-l-2 ecl-col-m-5 ecl-offset-m-1"><ul class="ecl-language-list__list"><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_bg"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="bg" hreflang="bg" rel="alternate"
+>български</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_es"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="es" hreflang="es" rel="alternate"
+>español</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_cs"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="cs" hreflang="cs" rel="alternate"
+>čeština</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_da"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="da" hreflang="da" rel="alternate"
+>dansk</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_de"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="de" hreflang="de" rel="alternate"
+>Deutsch</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_et"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="et" hreflang="et" rel="alternate"
+>eesti</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_el"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="el" hreflang="el" rel="alternate"
+>ελληνικά</a></li><li class="ecl-language-list__item ecl-language-list__item--is-active"><a
+  href="https://commission.europa.eu/error/404_en"
+  class="ecl-link ecl-link--standalone ecl-link--icon ecl-link--icon-after ecl-language-list__link"
+   lang="en" hreflang="en" rel="alternate"
+><span class="ecl-link__label">English</span><svg
+  class="ecl-icon ecl-icon--xs ecl-link__icon"
+  focusable="false"
+  aria-hidden="true"
+  ><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#check"></use></svg></a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_fr"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="fr" hreflang="fr" rel="alternate"
+>français</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_ga"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="ga" hreflang="ga" rel="alternate"
+>Gaeilge</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_hr"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="hr" hreflang="hr" rel="alternate"
+>hrvatski</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_it"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="it" hreflang="it" rel="alternate"
+>italiano</a></li></ul></div><div class="ecl-language-list__column ecl-col-12 ecl-col-l-4 ecl-col-m-5"><ul class="ecl-language-list__list"><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_lv"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="lv" hreflang="lv" rel="alternate"
+>latviešu</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_lt"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="lt" hreflang="lt" rel="alternate"
+>lietuvių</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_hu"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="hu" hreflang="hu" rel="alternate"
+>magyar</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_mt"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="mt" hreflang="mt" rel="alternate"
+>Malti</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_nl"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="nl" hreflang="nl" rel="alternate"
+>Nederlands</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_pl"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="pl" hreflang="pl" rel="alternate"
+>polski</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_pt"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="pt" hreflang="pt" rel="alternate"
+>português</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_ro"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="ro" hreflang="ro" rel="alternate"
+>română</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_sk"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="sk" hreflang="sk" rel="alternate"
+>slovenčina</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_sl"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="sl" hreflang="sl" rel="alternate"
+>slovenščina</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_fi"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="fi" hreflang="fi" rel="alternate"
+>suomi</a></li><li class="ecl-language-list__item"><a
+  href="https://commission.europa.eu/error/404_sv"
+  class="ecl-link ecl-link--standalone ecl-language-list__link"
+   lang="sv" hreflang="sv" rel="alternate"
+>svenska</a></li></ul></div></div></div></div>
+<div class="ecl-site-header__search-container">
+  <a
+    class="ecl-link ecl-link--standalone ecl-site-header__search-toggle"
+    href=""
+    data-ecl-search-toggle="true"
+    aria-controls="oe-search-search-form"
+    aria-expanded="false"
+  ><svg
+  class="ecl-icon ecl-icon--s"
+  focusable="false"
+  aria-hidden="true"
+  ><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#search"></use></svg>Search
+  </a>
+  <form class="ecl-search-form ecl-site-header__search" role="search" action="/strategy/justice-and-fundamental-rights/discrimination/gender-equality_en" method="post" id="oe-search-search-form" accept-charset="UTF-8" data-ecl-search-form><div class="ecl-form-group ecl-form-group--text-input"><label
+          for="edit-keys"
+          class="ecl-form-label ecl-search-form__label"
+    >Search</label><input
+      id="edit-keys"
+      class="ecl-text-input ecl-text-input--m ecl-search-form__text-input"
+      name="keys"
+        type="search"
+            
+  /></div><button class="ecl-button ecl-button--search ecl-search-form__button" type="submit"  aria-label="Search"><span class="ecl-button__container"><span class="ecl-button__label" data-ecl-label="true">Search</span><svg
+  class="ecl-icon ecl-icon--xs ecl-button__icon ecl-button__icon--after"
+  focusable="false"
+  aria-hidden="true"
+   data-ecl-icon><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#search"></use></svg></span></button><input autocomplete="off" data-drupal-selector="form-1ng-lwi2zttiylpntznayh9c2wsgnw15xbwi9fgygfw" type="hidden" name="form_build_id" value="form-1Ng-LwI2zTTIYLPnTzNAYh9C2WSGNw15xBWi9fgygfw" /><input data-drupal-selector="edit-oe-search-search-form" type="hidden" name="form_id" value="oe_search_search_form" /></form>
+  <script type="application/json">{"service":"search","results":"in","form":".ecl-search-form","lang":"en","key":"europa_default"}</script>
+
+</div>
+
+
+        </div>
+      </div>
+    </div>
+              <div id="block-ewcms-theme-horizontal-menu">
+  
+    
+      
+
+
+
+
+  </div>
+
+
+  </header>
+
+          
+            <div id="block-ewcms-theme-page-header">
+  
+    
+      
+        
+  
+<div class="ecl-page-header ecl-page-header--negative" ><div class="ecl-container"><nav class="ecl-breadcrumb ecl-breadcrumb--negative ecl-page-header__breadcrumb" aria-label="" data-ecl-breadcrumb="true"><ol class="ecl-breadcrumb__container"><li class="ecl-breadcrumb__segment" data-ecl-breadcrumb-item="static"><a
+  href="/index_en"
+  class="ecl-link ecl-link--standalone ecl-link--no-visited ecl-breadcrumb__link ecl-link--negative"
+  
+>Home</a><svg
+  class="ecl-icon ecl-icon--2xs ecl-icon--rotate-90 ecl-breadcrumb__icon"
+  focusable="false"
+  aria-hidden="true"
+   role="presentation"><use xlink:href="/themes/contrib/oe_theme/dist/ec/images/icons/sprites/icons.svg#corner-arrow"></use></svg></li><li class="ecl-breadcrumb__segment ecl-breadcrumb__current-page" data-ecl-breadcrumb-item="static" aria-current="page">Page not found</li></ol></nav><div class="ecl-page-header__title-container"><h1 class="ecl-page-header__title">Page not found</h1></div></div></div>
+  </div>
+
+
+  
+
+  <main class="ecl-u-pb-xl" id="main-content" data-inpage-navigation-source-area="h2.ecl-u-type-heading-2, div.ecl-featured-item__heading">
+    <div class="ecl-container">
+      <div class="ecl-row">
+        <div class="ecl-col-s-12 ewcms-top-sidebar">
+            <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+  </div>
+
+        </div>
+      </div>
+      <div class="ecl-row">
+        <div class="ecl-col-s-12">
+                      <div id="block-ewcms-theme-main-page-content" data-inpage-navigation-source-area="h2, div.ecl-featured-item__heading" class="ecl-u-mb-l">
+  
+    
+      <div>
+  <h2 class="ecl-u-type-heading-2">Something went wrong</h2>
+  <div class="ecl">
+    <p>The page you requested could not be found. This might have happened because</p> <ul> <li>the page has moved</li> <li>the page no longer exists</li> </ul>
+  </div>
+  <p><a class="ecl-link ecl-link--cta" href="https://commission.europa.eu/index_en">Return to the homepage</a></p>
+</div>
+
+  </div>
+
+            
+                  </div>
+      </div>
+      <div class="ecl-row">
+        <div class="ecl-col-s-12">
+          
+          
+        </div>
+      </div>
+    </div>
+  </main>
+
+        
+    
+  <footer class="ecl-site-footer ecl-site-footer--split-columns"><div class="ecl-container ecl-site-footer__container"><div class="ecl-site-footer__row"><div class="ecl-site-footer__column"><div class="ecl-site-footer__section"><a
+  href="https://commission.europa.eu/index_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__logo-link"
+   aria-label="Home&#x20;-&#x20;European&#x20;Commission"
+><img
+                                alt="European Commission logo"
+                                title="European Commission"
+                class="ecl-site-footer__logo-image-desktop"
+                src="/themes/contrib/oe_theme/dist/ec/images/logo/negative/logo-ec--en.svg"
+              /></a><div class="ecl-site-footer__description">This site is managed by the Directorate-General for Communication</div></div></div><div class="ecl-site-footer__column"><div class="ecl-site-footer__section ecl-site-footer__section--separator"><ul class="ecl-site-footer__list ecl-site-footer__list--columns"><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/strategy_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Strategy</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/about-european-commission_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>About the European Commission</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/business-economy-euro_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Business, Economy, Euro</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/live-work-travel-eu_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Live, work, travel in the EU</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/law_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Law</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/funding-tenders_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Funding, Tenders</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/research-and-innovation_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Research and innovation</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/energy-climate-change-environment_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Energy, Climate change, Environment</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/education_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Education</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/aid-development-cooperation-fundamental-rights_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Aid, Development cooperation, Fundamental rights</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/food-farming-fisheries_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Food, Farming, Fisheries</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/eu-regional-and-urban-development_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>EU regional and urban development</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/jobs-european-commission_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Jobs at the European Commission</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/statistics_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Statistics</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://ec.europa.eu/commission/presscorner/home/en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>News</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/events_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Events</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/publications_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Publications</a></li></ul></div><div class="ecl-site-footer__section"><ul class="ecl-site-footer__list"><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/about-european-commission/contact_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Contact the European Commission</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/accessibility-statement_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Accessibility</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://european-union.europa.eu/contact-eu/social-media-channels_en#/search?page=0&amp;institutions=european_commission"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Follow the European Commission on social media</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/resources-partners_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Resources for partners</a></li></ul></div><div class="ecl-site-footer__section"><ul class="ecl-site-footer__list"><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/languages-our-websites_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Languages on our websites</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/cookies_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Cookies</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/privacy-policy_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Privacy policy</a></li><li class="ecl-site-footer__list-item"><a
+  href="https://commission.europa.eu/legal-notice_en"
+  class="ecl-link ecl-link--standalone ecl-site-footer__link"
+  
+>Legal notice</a></li></ul></div></div></div></div></footer>
+
+
+  
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"03a9b7b360757f1ddc39874eecffd4008281134de6be847ca52584b5e46e7d2d"}}</script>
+<script src="/sites/default/files/js/js_BT2GOn0eqy5P4_ScQ4XlXoCSr2NrremXmQL3zsQCBFg.js"></script>
+<script src="https://europa.eu/webtools/load.js" defer></script>
+<script src="/sites/default/files/js/js_yLPgoF0qNNRMNvlJTUhg1u-nSI1rDN84yus25LjxeCo.js"></script>
+<script src="https://ec.europa.eu/wel/surveys/wr_survey01/wr_survey.js" defer></script>
+
+  </body>
+</html>

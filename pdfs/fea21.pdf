@@ -1,0 +1,825 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="online newspaper in sri lanka, latest news, political news, sports news, business news, entertainment news, obituaries, local news, feature news, sri lankan news stories, government gazette, marriage proposals" />
+<meta name="keywords" content="online newspaper in sri lanka, latest news, political news, sports news, business news, entertainment news, obituaries, local news, feature news, sri lankan news stories" />
+<script src="/cdn-cgi/apps/head/-6tAJ1Svo1K2i9RigKftbodl-_0.js"></script><link rel="canonical" href="https://www.dailynews.lk/" />
+<link rel="shortlink" href="https://www.dailynews.lk/" />
+<meta property="fb:app_id" content="495932957458962" />
+<meta property="fb:pages" content="dailynews.lk" />
+<meta property="og:site_name" content="Daily News" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.dailynews.lk/" />
+<meta property="og:title" content="Daily News" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.dailynews.lk/" />
+<meta name="twitter:title" content="Daily News" />
+<link rel="shortcut icon" href="http://dailynews.lk/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=117818588934723&ev=PageView&noscript=1"/></noscript> <title>Page not found | Daily News :Breaking News, Latest News, Sports News and Live Updates</title>
+<style type="text/css" media="all">
+@import url("https://www.dailynews.lk/modules/system/system.base.css?rtd65h");
+@import url("https://www.dailynews.lk/modules/system/system.menus.css?rtd65h");
+@import url("https://www.dailynews.lk/modules/system/system.messages.css?rtd65h");
+@import url("https://www.dailynews.lk/modules/system/system.theme.css?rtd65h");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.dailynews.lk/sites/all/modules/pollim/modules/choices/theme/choices.css?rtd65h");
+@import url("https://www.dailynews.lk/modules/comment/comment.css?rtd65h");
+@import url("https://www.dailynews.lk/sites/all/modules/date/date_api/date.css?rtd65h");
+@import url("https://www.dailynews.lk/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?rtd65h");
+@import url("https://www.dailynews.lk/modules/field/theme/field.css?rtd65h");
+@import url("https://www.dailynews.lk/modules/node/node.css?rtd65h");
+@import url("https://www.dailynews.lk/modules/search/search.css?rtd65h");
+@import url("https://www.dailynews.lk/modules/user/user.css?rtd65h");
+@import url("https://www.dailynews.lk/sites/all/modules/views/css/views.css?rtd65h");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.dailynews.lk/sites/all/modules/colorbox/styles/default/colorbox_style.css?rtd65h");
+@import url("https://www.dailynews.lk/sites/all/modules/ctools/css/ctools.css?rtd65h");
+@import url("https://www.dailynews.lk/sites/all/modules/responsive_menus/styles/responsive_menus_simple/css/responsive_menus_simple.css?rtd65h");
+@import url("https://www.dailynews.lk/sites/all/modules/addtoany/addtoany.css?rtd65h");
+@import url("https://www.dailynews.lk/sites/all/themes/dailynews/js/meanmenu/meanmenu.css?rtd65h");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.dailynews.lk/sites/all/themes/dailynews/style.css?rtd65h");
+</style>
+<!--[if (IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://www.dailynews.lk/sites/all/themes/dailynews/ie9.css?rtd65h" media="all" />
+<![endif]-->
+<style type="text/css" media="all">
+@import url("https://www.dailynews.lk/sites/all/themes/dailynews/local.css?rtd65h");
+@import url("https://www.dailynews.lk/sites/all/themes/dailynews/css/bootstrap.min.css?rtd65h");
+@import url("https://www.dailynews.lk/sites/all/themes/dailynews/css/font-awesome.min.css?rtd65h");
+</style>
+<link rel="preconnect" href="https://www.googletagservices.com" crossorigin="anonymous" />
+
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin="anonymous" />
+<link rel="preconnect" href="//contextual.media.net" crossorigin="anonymous" />
+<link rel="preconnect" href="//pagead2.googlesyndication.com" crossorigin="anonymous" />
+<link rel="preconnect" href="//www.googletagmanager.com" crossorigin="anonymous" />
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/DN_front_01_Leader_board', [[970, 90], [728, 90]], 'div-gpt-ad-1462534054684-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/home_dailynews_728x90', [728, 90], 'div-gpt-ad-1458345457582-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/DN_front_02', [[728, 90], [970, 90]], 'div-gpt-ad-1459500893777-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/DN_front_02_two', [[970, 90], [728, 90]], 'div-gpt-ad-1459709432470-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/dn_front_03', [728, 90], 'div-gpt-ad-1460971024930-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/DN-rightbar-gazette-front', [[325, 60], [360, 60]], 'div-gpt-ad-1464829898176-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/DN-Latest-top', [[156, 90], [412, 90], [212, 90], [262, 90]], 'div-gpt-ad-1464954647378-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/Gazette_Front_posi_2', [[360, 60]], 'div-gpt-ad-1470649836725-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/DN-rightbar-gazette-front_posi3', [[360, 60], [325, 60]], 'div-gpt-ad-1476341196616-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/DN-rightbar-gazette-front', [[325, 60], [360, 60]], 'div-gpt-ad-1476090505716-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/DN_front_01_Leader_board', [[970, 90], [728, 90]], 'div-gpt-ad-1480316617212-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/CDN_Content-Sports', [728, 90], 'div-gpt-ad-1481004822557-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/DN_Article_728x90', [728, 90], 'div-gpt-ad-1504680071130-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/CDN_Sky_Scraper', [970, 90], 'div-gpt-ad-1604286742578-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/Main_6_Bottom_banner', [468, 60], 'div-gpt-ad-1604313429372-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_domain_name = ".dailynews.lk";window.google_analytics_uacct = "UA-2630033-1";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/misc/drupal.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/equalheights/jquery.equalheights.js?v=1.0"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/pollim/modules/choices/js/choices.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/pollim/modules/choices/js/jquery.cookie.min.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/equalheights/equalheights.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/libraries/colorbox/jquery.colorbox-min.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/colorbox/js/colorbox.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/colorbox/styles/default/colorbox_style.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/colorbox/js/colorbox_load.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/colorbox/js/colorbox_inline.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/default/files/jstimer/timer.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/libraries/imagesloaded/jquery.imagesloaded.min.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/responsive_menus/styles/responsive_menus_simple/js/responsive_menus_simple.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/modules/google_analytics/googleanalytics.js?rtd65h"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-2630033-1", {"cookieDomain":".dailynews.lk"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+
+			var	headerTopHeight = $("#header-top").outerHeight(),
+			headerHeight = $("#header").outerHeight();
+			
+			$(window).scroll(function() {
+			if(($(this).scrollTop() > headerTopHeight+headerHeight) && ($(window).width() > 767)) {
+				$("body").addClass("onscroll");
+				if (($("#site-name").length > 0) && ($("#logo").length > 0)) {
+					$(".onscroll #logo").addClass("hide");
+				}
+
+				if ($("#banner").length > 0) { 
+ 					$("#banner").css("marginTop", (headerHeight)+"px");
+				} else if ($("#page-intro").length > 0) {
+					$("#page-intro").css("marginTop", (headerHeight)+"px");
+				} else {
+					$("#page").css("marginTop", (headerHeight)+"px");
+				}
+			} else {
+				$("body").removeClass("onscroll");
+				$("#logo").removeClass("hide");
+				$("#page,#banner,#page-intro").css("marginTop", (0)+"px");
+			}
+			});
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/themes/dailynews/js/meanmenu/jquery.meanmenu.fork.js?rtd65h"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+
+			$("#main-navigation .sf-menu, #main-navigation .content>ul.menu, #main-navigation ul.main-menu").wrap("<div class='meanmenu-wrapper'></div>");
+			$("#main-navigation .meanmenu-wrapper").meanmenu({
+				meanScreenWidth: "767",
+				meanRemoveAttrs: true,
+				meanMenuContainer: "#header-inside",
+				meanMenuClose: ""
+			});
+
+			$("#header-top .sf-menu, #header-top .content>ul.menu").wrap("<div class='header-top-meanmenu-wrapper'></div>");
+			$("#header-top .header-top-meanmenu-wrapper").meanmenu({
+				meanScreenWidth: "767",
+				meanRemoveAttrs: true,
+				meanMenuContainer: "#header-top-inside",
+				meanMenuClose: ""
+			});
+
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/default/files/facebook_tracking_pixel/fb_tkpx.117818588934723.js?rtd65h"></script>
+<script type="text/javascript" src="https://www.dailynews.lk/sites/all/themes/dailynews/js/bootstrap.min.js?rtd65h"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dailynews","theme_token":"yZsjQ1RRO7M0eiqgzWxFPTMECbq3cgn9IUyGbk1Qi2E","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/equalheights\/jquery.equalheights.js":1,"sites\/all\/modules\/pollim\/modules\/choices\/js\/choices.js":1,"sites\/all\/modules\/pollim\/modules\/choices\/js\/jquery.cookie.min.js":1,"sites\/all\/modules\/equalheights\/equalheights.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/www.google.com\/jsapi":1,"public:\/\/jstimer\/timer.js":1,"sites\/all\/libraries\/imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"sites\/all\/themes\/dailynews\/js\/meanmenu\/jquery.meanmenu.fork.js":1,"3":1,"public:\/\/facebook_tracking_pixel\/fb_tkpx.117818588934723.js":1,"sites\/all\/themes\/dailynews\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/pollim\/modules\/choices\/theme\/choices.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/themes\/dailynews\/js\/meanmenu\/meanmenu.css":1,"sites\/all\/themes\/dailynews\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/dailynews\/style.css":1,"sites\/all\/themes\/dailynews\/ie9.css":1,"sites\/all\/themes\/dailynews\/local.css":1,"sites\/all\/themes\/dailynews\/css\/bootstrap.min.css":1,"sites\/all\/themes\/dailynews\/css\/font-awesome.min.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"better_exposed_filters":{"views":{"home_page":{"displays":{"block_2":{"filters":[]}}},"comments_recent":{"displays":{"block":{"filters":[]}}}}},"equalHeightsModule":{"classes":[{"selector":".col2item","mediaquery":"","minheight":"0","maxheight":"410","overflow":"auto"},{"selector":".col3item","mediaquery":"","minheight":"","maxheight":"","overflow":"auto"},{"selector":".col4item","mediaquery":"","minheight":"0","maxheight":"410","overflow":"auto"},{"selector":"col2sideitems","mediaquery":"","minheight":"","maxheight":"","overflow":"auto"}],"imagesloaded_ie8":1},"responsive_menus":[{"toggler_text":"\u2630","selectors":["#main-menu"],"media_size":"768","media_unit":"px","absolute":"1","remove_attributes":"1","responsive_menus_style":"responsive_menus_simple"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1,"trackDomainMode":1},"urlIsAjaxTrusted":{"\/2009\/01\/24\/fea21.pdf":true}});
+//--><!]]>
+</script>
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+if(document.getElementById('div-gpt-ad-1581733867833-0') !== null) {
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/CDN_InContent_Top', [320, 65], 'div-gpt-ad-1581733867833-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+}  
+</script>
+<script>
+if(document.getElementById('div-gpt-ad-1528190336663-0') !== null) {
+  googletag.cmd.push(function() {
+    googletag.defineSlot('\/267803636\/DN-rightbar-gazette-front', [[ 360.0 ,  60.0 ], [ 325.0 ,  60.0 ]], 'div-gpt-ad-1528190336663-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+}  
+</script>
+<script>
+if(document.getElementById('div-gpt-ad-1561962647375-0') !== null) {
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/267803636/DN_front_01_Leader_board', [[970, 90], [728, 90]], 'div-gpt-ad-1561962647375-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+}  
+</script>
+
+<script type="text/javascript">
+    window._mNHandle = window._mNHandle || {};
+    window._mNHandle.queue = window._mNHandle.queue || [];
+    medianet_versionId = "3121199"; 
+</script>
+<script src="//contextual.media.net/dmedianet.js?cid=8CUBW375Y" async="async"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MD7E2MYN8B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MD7E2MYN8B');
+</script>
+<script src="https://tags.adstudio.cloud/Dailynews.js"> </script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page- page-2009 page- page-01 page- page-24 page-fea21pdf no-banner     form-style-1">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 hidden-xs">
+<center><a href="https://bit.ly/3HLb2Fi" target="_blank" title="Blue Ocean"><img alt="Blue Ocean" src="https://www.dailynews.lk/sites/default/files/BO-Banner-NEW.gif" /></a></center>
+</div>
+<div class="hidden-lg hidden-md hidden-sm col-xs-12">
+<center><a href="https://bit.ly/3HLb2Fi" target="_blank" title="Blue Ocean"><img alt="Blue Ocean" src="https://www.dailynews.lk/sites/default/files/Web-Strip-Mobile.gif" /></a></center>
+</div>
+<div class="col-md-12 text-center">
+
+
+</div>
+</div>
+</div>
+
+<div id="header-upper" class="clearfix">
+<div class="container">
+
+
+<div id="head-nav" class="head-nav">
+<div class="row">
+<div class="col-xs-0 col-sm-6 col-md-2 col-lg-2">
+<div id="head_nav_1" class="clearfix">
+<div class="region region-head-nav-1">
+<div id="block-block-1" class="block block-block clearfix">
+<div class="content">
+<ul>
+<li><a href="http://www.dinamina.lk" target="_blank" title="Dinamina">SI</a></li>
+<li><a href="http://www.thinakaran.lk" target="_blank" title="Dinamina">TA</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden-xs col-xs-12 hidden-sm col-md-3 col-lg-3">
+<div id="head_nav_3" class="clearfix">
+<div class="region region-head-nav-3">
+<div id="block-block-3" class="block block-block clearfix">
+<div class="content">
+<ul class="ad-rates-subscribe">
+<li><a href="http://lakehouse.lk/main/advertising/online_advertising.htm" target="_blank" title="Ad Rates">Ad Rates</a></li>
+<li><a href="http://www.lakehouseonlinepayments.lk/" target="_blank" title="Subscribe Now">Subscribe Now</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div id="head_nav_4" class="clearfix">
+<div class="region region-head-nav-4">
+<div id="block-block-4" class="block block-block clearfix">
+<div class="content">
+<ul class="social-icons pull-right">
+<li class="socials__item"><a class="socials__link socials__link_facebook" href="https://www.facebook.com/dailynews.lk" target="_blank">facebook</a></li>
+<li class="socials__item"><a class="socials__link socials__link_twitter" href="https://twitter.com/DailyNews_lk" target="_blank">twitter</a></li>
+<li class="socials__item"><a class="socials__link socials__link_youtube" href="https://www.youtube.com/channel/UCoEZZJfqiZoii0jbUTFUSBA" target="_blank">youtube</a></li>
+<li class="socials__item"><a class="socials__link socials__link_instagram" href="https://www.instagram.com/dailynewslk/" target="_blank">instagram</a></li>
+<li class="socials__item"><a class="socials__link socials__link_soundcloud" href="https://soundcloud.com/lakehouselk" target="_blank">soundcloud</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+<header id="header" class="main-header clearfix">
+<div class="container">
+
+<div id="header-inside">
+<div class="row">
+<div class="col-xs-4 col-sm-6 col-md-6 col-lg-3 padding-right-zero">
+
+<div id="header-inside-left" class="clearfix">
+ <div id="logo" class="din-logo clearfix">
+<a href="/" title="Home" rel="home"> <img src="https://www.dailynews.lk/sites/all/themes/dailynews/logo.png" alt="Home" /> </a>
+</div>
+</div>
+
+</div>
+<div class="col-xs-4 col-sm-2 col-md-3 col-lg-3  padding-right-zero">
+
+<div id="header-inside-mid" class="clearfix">
+<div id="header-mid" class="clearfix">
+<div class="live">
+<div class="region region-live">
+<div id="block-block-12" class="block block-block clearfix">
+<div class="content">
+<p class="header-on-air"><a class="link-on-air" href="http://epaper.dailynews.lk" style="font-weight: 700;" target="_blank" title="E-Paper"> E-Paper</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="hidden-xs col-sm-3 col-md-3 col-lg-6">
+
+<div id="header-inside-right" class="clearfix">
+<div id="header-right" class="clearfix">
+<div class="search">
+<div class="region region-search">
+<div id="block-search-form" class="block block-search clearfix">
+<div class="content">
+<form action="/2009/01/24/fea21.pdf" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+<h2 class="element-invisible">Search form</h2>
+<div class="form-item form-type-textfield form-item-search-block-form">
+<input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search...&#039;;}" onfocus="if (this.value == &#039;Search...&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search..." size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-D7V33-KAUmYtwIowIIAlOeez3f-IJ-cNj2gMn5gDHjA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form> </div>
+</div>
+</div>
+<br />
+
+<p class="timestamp">
+<span class="jst_clock"><span style="display:none" class="clock_type">1</span><span style="display:none" class="size">200</span></span> April 30, 2023</p>
+</div>
+</div>
+</div>
+
+</div>
+<div class="col-xs-4 hidden-sm hidden-md hidden-lg padding-left-zero ">
+
+<div class="ii-mobile i-nav" id="mobilenavi">
+<div id="main-menu">
+</div>
+</div>
+
+<a id="showSearch" data-toggle="collapse" class="i-mobile i-search" href="#mobileSearch" aria-expanded="false" aria-controls="mobileSearch"></a>
+</div>
+</div>
+</div>
+
+
+<div id="mainmenu" class="hidden-xs col-sm-12 col-md-12 col-lg-12">
+<div class="row">
+<div id="main-nav" class="main-nav">
+<nav role="navigation">
+<div id="main-menu">
+</div>
+</nav>
+</div>
+</div>
+</div>
+
+</div>
+</header>
+
+<div class="mobile-search collapse" id="mobileSearch">
+<div class="container row">
+<form action="/search/everywhere/" method="get">
+<fieldset>
+<input value="Search" type="submit">
+<div class="input_wrapper"><input name="term" value="" type="search"></div>
+</fieldset>
+</form>
+</div>
+</div>
+
+
+
+<div id="page" class="clearfix">
+
+
+
+<div id="main-content">
+<div class="container">
+<div class="row">
+<section class="col-md-8">
+
+<div id="main" class="clearfix">
+<h1 class="title" id="page-title">Page not found</h1>
+
+
+
+<div class="tabs">
+</div>
+
+
+
+<div class="region region-content">
+<div id="block-system-main" class="block block-system clearfix">
+<div class="content">
+The requested page "/2009/01/24/fea21.pdf" could not be found. </div>
+</div>
+</div>
+</div>
+
+</section>
+<aside class="col-md-4 fix-sidebar-second">
+
+<section id="sidebar-second" class="sidebar clearfix">
+<div class="region region-sidebar-second">
+<div id="block-block-111" class="block block-block clearfix">
+<div class="content">
+<p style="text-align: center;"><a href="https://bit.ly/EricRajapakseOpticians" target="_blank"><img alt="Eric Rajapakse" src="https://www.dailynews.lk/sites/default/files/pictures/COVID19-Flash-1_0.gif" /></a></p>
+</div>
+</div>
+<div id="block-block-53" class="block block-block clearfix">
+<div class="content">
+<p>
+</p><div id="block_4661"></div>
+</div>
+</div>
+<div id="block-views-latest-news-block" class="block block-views clearfix">
+<h2 class="title">Latest News</h2>
+<div class="content">
+<div class="view view-latest-news view-id-latest_news view-display-id-block view-dom-id-be864b41718f4ec6161f35fce8e8a54d">
+<div class="view-content">
+<div id="views-bootstrap-grid-1" class="views-bootstrap-grid-plugin-style">
+<div class="row">
+<div class=" col-xs-12 col-lg-6">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/29/local/302378/inflation-drops-353-april"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/28/01-Inflation.jpg?itok=A0XPT8zw" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/29/local/302378/inflation-drops-353-april">Inflation drops by 35.3% in April</a></span> </div>
+<div class="views-field views-field-body"> <span class="field-content">The Department of Census and Statistics yesterday said that inflation in...</span> </div> </div>
+<div class=" col-xs-12 col-lg-6">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/29/local/302377/former-mp-sri-ranga-remanded-till-may-12"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/28/01-Former_0.jpg?itok=E3xLS-jn" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/29/local/302377/former-mp-sri-ranga-remanded-till-may-12">Former MP Sri Ranga remanded till May 12</a></span> </div>
+<div class="views-field views-field-body"> <span class="field-content">Former MP J.Sri Ranga who was arrested for allegedly influencing witnesses...</span> </div> </div>
+<div class="clearfix visible-lg-block"></div>
+<div class=" col-xs-12 col-lg-6">
+<div class="views-field views-field-field-image"> <div class="field-content"></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/29/local/302376/food-poisoning-nanu-oya-school-21-hospitalised">Food poisoning at Nanu-Oya school, 21 hospitalised</a></span> </div>
+<div class="views-field views-field-body"> <span class="field-content">Twenty nine schoolchildren of Grade Five studying at Glassaugh Primary...</span> </div> </div>
+<div class=" col-xs-12 col-lg-6">
+<div class="views-field views-field-field-image"> <div class="field-content"></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/29/local/302375/iusf-convener-laments-result-delays-kelaniya">IUSF Convener laments result delays in Kelaniya</a></span> </div>
+<div class="views-field views-field-body"> <span class="field-content">Inter University Students’ Federation (IUSF) Convener Wasantha Mudalige...</span> </div> </div>
+<div class="clearfix visible-lg-block"></div>
+<div class=" col-xs-12 col-lg-6">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/29/law-order/302374/court-orders-genetic-samples-all-suspects-former-mp%E2%80%99s-murder"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/28/01-Court.jpg?itok=DItaXRFc" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/29/law-order/302374/court-orders-genetic-samples-all-suspects-former-mp%E2%80%99s-murder">Court orders genetic samples from all suspects in former MP’s murder</a></span> </div>
+<div class="views-field views-field-body"> <span class="field-content">Since there are genetic samples from strangers in MP Amarakeerthi...</span> </div> </div>
+<div class=" col-xs-12 col-lg-6">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/29/law-order/302373/magistrate-visits-shooter-%E2%80%98buru-muna%E2%80%99"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/28/01-Magistrate_0.jpg?itok=NEY5ePmZ" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/29/law-order/302373/magistrate-visits-shooter-%E2%80%98buru-muna%E2%80%99">Magistrate visits shooter ‘Buru Muna’</a></span> </div>
+<div class="views-field views-field-body"> <span class="field-content">Nugegoda Magistrate Thanuja Jayasinghe yesterday arrived at Mirihana...</span> </div> </div>
+<div class="clearfix visible-lg-block"></div>
+<div class=" col-xs-12 col-lg-6">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/29/local/302372/lg-candidates-can-resume-work-close-their-homes-pm"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/28/01-LG.jpg?itok=66fL2FFb" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/29/local/302372/lg-candidates-can-resume-work-close-their-homes-pm">LG candidates can resume work close to their homes - PM</a></span> </div>
+<div class="views-field views-field-body"> <span class="field-content">Prime Minister Dinesh Gunawardena told Parliament yesterday that the...</span> </div> </div>
+<div class=" col-xs-12 col-lg-6">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/29/local/302371/guidelines-state-agencies-raise-abandoned-infants-be-formulated"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/28/01-Guidelines.jpg?itok=4BBErzjc" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/29/local/302371/guidelines-state-agencies-raise-abandoned-infants-be-formulated">Guidelines for state agencies to raise abandoned infants to be formulated</a></span> </div>
+<div class="views-field views-field-body"> <span class="field-content">A special meeting held to discuss receiving infants under three months...</span> </div> </div>
+<div class="clearfix visible-lg-block"></div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+<div id="block-block-16" class="block block-block advert-block clearfix">
+<div class="content">
+<p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+
+<div id="117542121">
+<script type="text/javascript">
+	  try {
+		   window._mNHandle.queue.push(function () {
+		   	window._mNDetails.loadTag("117542121", "300x250", "117542121");
+		  	});
+		  }
+	  catch (error) {}
+	</script>
+</div> </div>
+</div>
+<div id="block-block-26" class="block block-block clearfix">
+<div class="content">
+<p><iframe src="http://www.observerjobs.lk/widget/1.0/vacancies" style="width: 100%" width="100%" height="350" frameborder="0"></iframe></p>
+</div>
+</div>
+<div id="block-views-latest-news-block-1" class="block block-views clearfix">
+<h2 class="title">Editor's Pick</h2>
+<div class="content">
+<div class="view view-latest-news view-id-latest_news view-display-id-block_1 view-dom-id-d18a430a885b24a8305487c747fafba8">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first col-xs-12 col-sm-12 col-md-6 col-lg-6 padding-left-zero col2sideitems">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/29/local/302356/al-qaeda-agents-planned-easter-attacks-puttalam-one-year"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/28/01-Al-Qaeda.jpg?itok=44hX5GR2" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/29/local/302356/al-qaeda-agents-planned-easter-attacks-puttalam-one-year">Al-Qaeda agents planned Easter attacks in Puttalam one year before</a></span> </div> </div>
+<div class="views-row views-row-2 views-row-even col-xs-12 col-sm-12 col-md-6 col-lg-6 padding-left-zero col2sideitems">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/28/local/302285/sweeping-reforms-help-country%E2%80%99s-revival"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/27/Untitled-96.jpg?itok=4YXbD0zT" width="728" height="410" alt="Central Bank Governor Dr. Nandalal Weerasinghe and senior officials handing over the Annual Report to President Ranil Wickremesinghe at the Presidential Secretariat yesterday. Treasury Secretary Mahinda Siriwardena was present." /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/28/local/302285/sweeping-reforms-help-country%E2%80%99s-revival">Sweeping reforms help country’s revival</a></span> </div> </div>
+<div class="views-row views-row-3 views-row-odd col-xs-12 col-sm-12 col-md-6 col-lg-6 padding-left-zero col2sideitems">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/27/local/302205/sri-lanka-has-embarked-path-renaissance-president"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/26/Untitled-78.jpg?itok=Q-otDP8E" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/27/local/302205/sri-lanka-has-embarked-path-renaissance-president">Sri Lanka has embarked on the path of renaissance - President </a></span> </div> </div>
+<div class="views-row views-row-4 views-row-even col-xs-12 col-sm-12 col-md-6 col-lg-6 padding-left-zero col2sideitems">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/26/local/302118/one-chamara-gunasekera-got-us-250-mn-bribe-minister"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/25/A%20majority.jpg?itok=VnriAqdI" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/26/local/302118/one-chamara-gunasekera-got-us-250-mn-bribe-minister">One Chamara Gunasekera got US$ 250 mn as bribe - Minister</a></span> </div> </div>
+<div class="views-row views-row-5 views-row-odd col-xs-12 col-sm-12 col-md-6 col-lg-6 padding-left-zero col2sideitems">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/25/local/302057/relief-programme-two-million-families-july-1"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/24/Ranjith-siyabala--pitiya-12.jpg?itok=7R1w_RXN" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/25/local/302057/relief-programme-two-million-families-july-1">Relief programme for two million families from July 1</a></span> </div> </div>
+<div class="views-row views-row-6 views-row-even col-xs-12 col-sm-12 col-md-6 col-lg-6 padding-left-zero col2sideitems">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/24/local/301952/fertilizer-subsidy-550000-farmers-yala-cost-rs-11-bn"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/23/Untitled-34.jpg?itok=VvJCzjj5" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/24/local/301952/fertilizer-subsidy-550000-farmers-yala-cost-rs-11-bn">Fertilizer subsidy for 550,000 farmers for Yala to cost Rs. 11 bn</a></span> </div> </div>
+<div class="views-row views-row-7 views-row-odd col-xs-12 col-sm-12 col-md-6 col-lg-6 padding-left-zero col2sideitems">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/22/local/301867/tid-question-suspect-after-australian-govt-reports"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/21/1-1111.jpg?itok=8kTi6DlP" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/22/local/301867/tid-question-suspect-after-australian-govt-reports">TID to question suspect after Australian Govt. reports</a></span> </div> </div>
+<div class="views-row views-row-8 views-row-even views-row-last col-xs-12 col-sm-12 col-md-6 col-lg-6 padding-left-zero col2sideitems">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/2023/04/21/local/301817/govt-should-bring-new-laws-curb-such-attempts-ven-dhammadassi-thera"><img typeof="foaf:Image" src="https://www.dailynews.lk/sites/default/files/styles/node-teaser-default/public/news/2023/04/20/1-2.jpg?itok=YDKT-uY_" width="728" height="410" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2023/04/21/local/301817/govt-should-bring-new-laws-curb-such-attempts-ven-dhammadassi-thera">Govt should bring new laws to curb such attempts - Ven. Dhammadassi Thera</a></span> </div> </div>
+</div>
+</div> </div>
+</div>
+<div id="block-views-comments-recent-block" class="block block-views clearfix">
+<h2 class="title">Recent comments</h2>
+<div class="content">
+<div class="view view-comments-recent view-id-comments_recent view-display-id-block view-dom-id-a3de6060ef430776322ef2fefd967346">
+<div class="view-header">
+<script id="mNCC" language="javascript">
+<!--//--><![CDATA[// ><!--
+
+    medianet_width = "338";
+    medianet_height = "280";
+    medianet_crid = "782167861";
+    medianet_versionId = "3111299"; 
+  
+//--><!]]>
+</script><script src="//contextual.media.net/nmedianet.js?cid=8CUBW375Y"></script> </div>
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-subject text-justify"> <span class="field-content"><a href="/comment/202394#comment-202394">@pump_upp - best crypto pumps on telegram !</a></span> </div>
+<div class="views-field views-field-timestamp"> <span class="field-content"><em class="placeholder">2 months 3 weeks</em> ago</span> </div>
+<div class="views-field views-field-comment-body text-justify  padding-right-zero"> <div class="field-content">https://t.me/pump_upp - best crypto pumps on telegram
+Make 1000% and more within 1 day, join channel @pump_upp !</div> </div></li>
+<li class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-subject text-justify"> <span class="field-content"><a href="/comment/131180#comment-131180">WIND POWER AND SOLAR</a></span> </div>
+<div class="views-field views-field-timestamp"> <span class="field-content"><em class="placeholder">1 year 2 months</em> ago</span> </div>
+<div class="views-field views-field-comment-body text-justify  padding-right-zero"> <div class="field-content">For once. Good idea.</div> </div></li>
+<li class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-subject text-justify"> <span class="field-content"><a href="/comment/131178#comment-131178">Coin</a></span> </div>
+<div class="views-field views-field-timestamp"> <span class="field-content"><em class="placeholder">1 year 2 months</em> ago</span> </div>
+<div class="views-field views-field-comment-body text-justify  padding-right-zero"> <div class="field-content">coin</div> </div></li>
+<li class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-subject text-justify"> <span class="field-content"><a href="/comment/131177#comment-131177">News</a></span> </div>
+<div class="views-field views-field-timestamp"> <span class="field-content"><em class="placeholder">1 year 2 months</em> ago</span> </div>
+<div class="views-field views-field-comment-body text-justify  padding-right-zero"> <div class="field-content">news</div> </div></li>
+<li class="views-row views-row-5 views-row-odd views-row-last">
+<div class="views-field views-field-subject text-justify"> <span class="field-content"><a href="/comment/131173#comment-131173">Pack of 20 commodity items</a></span> </div>
+<div class="views-field views-field-timestamp"> <span class="field-content"><em class="placeholder">1 year 2 months</em> ago</span> </div>
+<div class="views-field views-field-comment-body text-justify  padding-right-zero"> <div class="field-content">A good proposal. Arrangements are not in place for those who cannot go to the outlets. </div> </div></li>
+</ul></div> </div>
+<div class="more-link">
+<a href="/comments/recent">
+more </a>
+</div>
+</div> </div>
+</div>
+</div>
+</section>
+
+</aside>
+</div>
+</div>
+</div>
+
+</div>
+
+
+<footer id="footer" class="clearfix">
+<div class="container">
+<div class="row">
+<div class="col-sm-4">
+<div class="footer-area">
+<div class="region region-footer-first">
+<div id="block-block-60" class="block block-block clearfix">
+<div class="content">
+ </div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="footer-area">
+<div class="region region-footer-second">
+<div id="block-block-22" class="block block-block clearfix">
+<div class="content">
+<ul class="menu">
+<li class="contact-details">Email : <a href="/cdn-cgi/l/email-protection#781c19111401161d0f0b17161411161d381419131d10170d0b1d561413"><span class="__cf_email__" data-cfemail="2347424a4f5a4d4654504c4d4f4a4d46634f4248464b4c5650460d4f48">[email&#160;protected]</span></a></li>
+<li class="contact-details">Call us : (+94) 112 429 429</li>
+<li class="contact-details"><strong>Web Advertising</strong> : (+94) 112 429 315  Randinu Pathirana  +94 71 438 4072<br style="color: rgb(68, 68, 68); font-family: tahoma, sans-serif; font-size: large;" /> </li>
+<li class="contact-details"><a href="http://lakehouserest.lk" title="Lake House Rest - Kataragama">Lake House Rest - Kataragama</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4">
+<div class="footer-area">
+<div class="region region-footer-fourth">
+<div id="block-block-30" class="block block-block clearfix">
+<div class="content">
+<p><iframe allowtransparency="true" frameborder="0" height="300" scrolling="no" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdailynews.lk%2F&amp;tabs=timeline&amp;width=300&amp;height=300&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=495932957458962" style="border:none;overflow:hidden" width="300"></iframe></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<div id="subfooter" class="clearfix">
+<div class="container">
+
+<div id="subfooter-inside" class="clearfix">
+<div class="row">
+<div class="col-md-8">
+
+<div class="subfooter-area left">
+<div class="region region-sub-footer-left">
+<div id="block-block-6" class="block block-block copyright clearfix">
+<div class="content">
+<p><a href="http://www.lakehouse.lk" target="_blank" title="Lake House"><img alt="" src="https://www.dailynews.lk/sites/default/files/resize/pictures/lakehouse-logo-50x31.PNG" style="width: 50px; height: 31px;" width="50" height="31" /></a> © The Associated Newspapers of Ceylon Ltd., 1995–2023. All rights reserved.</p>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="col-md-4">
+
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    var isIE10 = false;
+    /*@cc_on
+        if (/^11/.test(@_jscript_version)) {
+            isIE10 = true;
+        }
+    @*/
+    
+    if (!isIE10) {
+    
+        if(document.getElementById("covidgloble")) {
+            var div = document.createElement("div");
+            var url = "https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6";
+            if (isMobile()) {
+                url = "https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61";
+            }
+            console.log("here we go "+url);
+            var ele = document.getElementById("covidgloble").src = url;
+        }
+    }
+  
+    function isMobile() {
+        if (window.innerWidth <= 1136 && window.innerHeight <= 640 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,359 @@
+1682970656640	geckodriver	INFO	Listening on 127.0.0.1:38639
+1682970656650	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecWhR7u"
+Gtk-Message: 13:50:56.677: Failed to load module "appmenu-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682970657634	Marionette	INFO	Marionette enabled
+1682970657642	Marionette	INFO	Listening on port 46327
+Read port: 46327
+WebDriver BiDi listening on ws://127.0.0.1:42693
+1682970657791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecWhR7u/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:42693/devtools/browser/497017a0-eed5-4880-95f1-f7b3abd9da55
+1682970662692	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vL7o0N_rWuXUXr4zaznQwGRTzb1r1IdsCvpeVnelq_s.js line 2 > eval line 4972 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682970665350	Marionette	INFO	Stopped listening on port 46327
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1682971165492	geckodriver	INFO	Listening on 127.0.0.1:56523
+1682971165500	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49743" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegq43M9"
+Gtk-Message: 13:59:25.535: Failed to load module "appmenu-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682971166480	Marionette	INFO	Marionette enabled
+1682971166491	Marionette	INFO	Listening on port 40535
+Read port: 40535
+WebDriver BiDi listening on ws://127.0.0.1:49743
+1682971166617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegq43M9/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49743/devtools/browser/7d426ebc-666d-416b-9027-f15acfcade13
+1682971171269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vL7o0N_rWuXUXr4zaznQwGRTzb1r1IdsCvpeVnelq_s.js line 2 > eval line 6854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vL7o0N_rWuXUXr4zaznQwGRTzb1r1IdsCvpeVnelq_s.js line 2 > eval line 6721 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://www.google.com/js/th/D-UaIBZA04T2DY-PoKM79xOaaKfKr8x5UDej3ln4AB8.js line 2 > eval line 4791 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+1682971306431	geckodriver	INFO	Listening on 127.0.0.1:59287
+1682971306440	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXBaPru"
+Gtk-Message: 14:01:46.470: Failed to load module "appmenu-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682971307330	Marionette	INFO	Marionette enabled
+1682971307337	Marionette	INFO	Listening on port 44029
+Read port: 44029
+WebDriver BiDi listening on ws://127.0.0.1:42971
+1682971307463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXBaPru/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:42971/devtools/browser/aa5493b1-ac0f-418a-a435-04161371d483
+1682971312421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vL7o0N_rWuXUXr4zaznQwGRTzb1r1IdsCvpeVnelq_s.js line 2 > eval line 3222 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682971315138	Marionette	INFO	Stopped listening on port 44029
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/player/0c487f05/player_ias.vflset/en_US/base.js, line 7831: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/s/player/0c487f05/player_ias.vflset/en_US/base.js, line 7831: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=VF-r5TtlT9w&list=RDtsJXoqvmgzM&index=27&themeRefresh=1, line 12: TypeError: can't access dead object
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1682971328973	geckodriver	INFO	Listening on 127.0.0.1:47225
+1682971328979	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehCwkI0"
+Gtk-Message: 14:02:09.012: Failed to load module "appmenu-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682971329970	Marionette	INFO	Marionette enabled
+1682971329979	Marionette	INFO	Listening on port 33671
+Read port: 33671
+WebDriver BiDi listening on ws://127.0.0.1:50057
+1682971330129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehCwkI0/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50057/devtools/browser/f7b0bf1e-0844-4d3e-94b8-f44be66fde99
+1682971335390	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vL7o0N_rWuXUXr4zaznQwGRTzb1r1IdsCvpeVnelq_s.js line 2 > eval line 6479 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 110059, MediaDecoderStateMachine #1] WARNING: Decoder=7f19256cad00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 110059, MediaDecoderStateMachine #1] WARNING: Decoder=7f19256cad00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-DD9c5S/firefox-112.0.2+build1/dom/media/MediaDecoderStateMachineBase.cpp:164
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vL7o0N_rWuXUXr4zaznQwGRTzb1r1IdsCvpeVnelq_s.js line 2 > eval line 2731 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1682971848234	geckodriver	INFO	Listening on 127.0.0.1:37669
+1682971848762	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyXJIf6"
+Gtk-Message: 14:10:48.867: Failed to load module "appmenu-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1682971849869	Marionette	INFO	Marionette enabled
+1682971849876	Marionette	INFO	Listening on port 34971
+WebDriver BiDi listening on ws://127.0.0.1:45011
+Read port: 34971
+1682971850023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyXJIf6/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:45011/devtools/browser/b549c2e0-69e9-418d-9da6-46e85a9105ed
+1682971854456	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vL7o0N_rWuXUXr4zaznQwGRTzb1r1IdsCvpeVnelq_s.js line 2 > eval line 5958 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Gdk-Message: 15:36:01.763: firefox: Fatal IO error 0 (Success) on X server :0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
